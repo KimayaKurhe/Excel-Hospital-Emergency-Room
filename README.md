@@ -9,4 +9,4 @@ This interactive Power BI dashboard provides a comprehensive monthly overview of
 * Department Referral Breakdown
 
   DASHBOARD
-  ![Dashboard](images/
+  ![Dashboard](images/H-E-R_Dashboard.png)
