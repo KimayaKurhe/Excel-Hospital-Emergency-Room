@@ -1,0 +1,1001 @@
+Patient Id,Patient Admission Date,Patient Admission Time,Patient Name,Patient Gender,Patient Age,Patient Race,Department Referral,Patient Admission Flag,Patient Satisfaction Score,Patient Waittime
+889-96-0276,01-04-2023,22:10:00,Q. Purseglove,Male,10,Two or More Races,Cardiology,Not Admitted,null,45
+689-22-4635,01-04-2023,14:08:00,V. Game,Male,53,African American,None,Admitted,7,46
+389-14-6190,01-04-2023,15:10:00,E. Bygate,Female,20,Asian,General Practice,Not Admitted,null,30
+170-60-7747,01-04-2023,13:25:00,T. Snowdon,Male,31,White,General Practice,Not Admitted,0,56
+701-64-7880,01-04-2023,01:21:00,L. Brothwell,Male,18,Two or More Races,None,Admitted,3,40
+874-57-8352,01-04-2023,09:49:00,V. Matyushenko,Male,38,White,None,Not Admitted,null,50
+428-40-4491,01-04-2023,14:07:00,J. Antonnikov,Female,46,African American,None,Admitted,null,45
+106-45-9457,01-04-2023,22:49:00,I. Nicol,Female,71,Two or More Races,General Practice,Admitted,null,14
+259-51-9518,01-04-2023,02:45:00,T. Rolingson,Male,62,Asian,None,Not Admitted,null,12
+868-10-5414,01-04-2023,18:16:00,R. Fulker,Female,55,African American,None,Admitted,null,24
+161-03-2325,01-04-2023,13:31:00,Q. Everson,Female,26,Declined to Identify,None,Not Admitted,8,44
+111-52-9197,01-04-2023,19:07:00,G. Hawkeswood,Female,64,White,None,Not Admitted,null,59
+417-42-4910,01-04-2023,23:46:00,V. Clelle,Female,79,Two or More Races,None,Not Admitted,null,45
+570-93-0122,01-04-2023,22:29:00,X. Olech,Female,43,Declined to Identify,Orthopedics,Not Admitted,null,47
+125-52-4944,01-04-2023,04:34:00,N. Sommerscales,Male,79,White,General Practice,Not Admitted,null,21
+338-11-7529,01-04-2023,17:41:00,B. Grzelczak,Female,38,African American,None,Admitted,null,54
+766-20-3662,01-04-2023,01:13:00,N. Sparsholt,Male,60,Two or More Races,Cardiology,Admitted,1,35
+628-45-6492,01-04-2023,06:07:00,L. McCarrison,Female,6,White,None,Admitted,null,52
+576-82-1180,01-04-2023,07:16:00,X. Bassford,Male,69,Asian,General Practice,Admitted,null,50
+516-30-4919,02-04-2023,21:59:00,S. Nyland,Male,16,White,Orthopedics,Not Admitted,9,21
+729-10-9426,02-04-2023,17:50:00,Z. Brotherhed,Male,6,Asian,General Practice,Not Admitted,null,45
+563-50-3688,02-04-2023,03:22:00,W. Reburn,Female,26,White,None,Admitted,null,12
+248-21-1787,02-04-2023,09:15:00,C. Benez,Female,60,White,Physiotherapy,Admitted,null,60
+732-17-2371,02-04-2023,19:40:00,H. Halmkin,Male,57,Declined to Identify,None,Admitted,10,33
+262-69-4482,02-04-2023,05:05:00,U. Llopis,Male,38,Declined to Identify,Gastroenterology,Admitted,null,14
+353-77-6257,02-04-2023,23:10:00,V. Van Der Walt,Male,75,White,None,Not Admitted,7,33
+725-40-8184,02-04-2023,21:32:00,X. Hebborn,Female,71,Pacific Islander,Neurology,Admitted,null,31
+771-03-7336,02-04-2023,00:43:00,E. Sessions,Female,29,White,General Practice,Not Admitted,5,26
+476-32-0713,02-04-2023,13:07:00,K. Bunhill,Male,68,White,None,Admitted,null,24
+112-88-9744,02-04-2023,20:25:00,I. Wing,Male,70,Declined to Identify,None,Admitted,null,26
+372-25-7518,02-04-2023,15:52:00,K. Hambly,Female,67,Declined to Identify,General Practice,Admitted,null,22
+682-34-0219,02-04-2023,05:22:00,N. Trenam,Male,38,Native American/Alaska Native,Gastroenterology,Admitted,null,36
+848-86-1919,03-04-2023,21:57:00,U. Lebourn,Female,61,Two or More Races,General Practice,Admitted,null,42
+321-06-1856,03-04-2023,15:44:00,O. McEnteggart,Male,57,African American,Cardiology,Not Admitted,null,31
+747-20-4937,03-04-2023,20:16:00,W. Fydo,Male,65,White,None,Not Admitted,10,38
+745-93-0856,03-04-2023,10:14:00,P. Ricciardiello,Male,77,African American,Orthopedics,Admitted,null,37
+453-73-0932,03-04-2023,01:26:00,T. Antognoni,Female,42,White,General Practice,Admitted,0,13
+203-87-2918,03-04-2023,06:51:00,I. Betonia,Female,2,Two or More Races,None,Admitted,null,52
+270-19-6893,03-04-2023,18:32:00,B. Tucknott,Male,21,White,None,Not Admitted,null,54
+388-42-8354,03-04-2023,12:31:00,P. Sibbons,Male,12,African American,None,Not Admitted,null,16
+574-27-8945,03-04-2023,10:00:00,X. Presidey,Male,3,Asian,Orthopedics,Admitted,null,22
+802-23-8057,03-04-2023,04:53:00,R. Huc,Male,68,Declined to Identify,None,Admitted,1,31
+681-69-3937,03-04-2023,14:56:00,R. Maffezzoli,Male,64,Asian,General Practice,Not Admitted,2,15
+605-80-1296,03-04-2023,18:16:00,Z. Ruffles,Male,26,Declined to Identify,None,Not Admitted,10,41
+677-08-7636,03-04-2023,12:57:00,C. Maylin,Male,79,Asian,None,Admitted,null,47
+268-52-0413,03-04-2023,21:56:00,O. Hailston,Female,36,African American,General Practice,Not Admitted,null,36
+499-12-6236,04-04-2023,10:30:00,O. Durek,Female,69,White,None,Not Admitted,6,45
+119-47-0197,04-04-2023,08:35:00,N. Skrines,Male,49,White,None,Not Admitted,null,37
+584-23-4964,04-04-2023,13:11:00,P. Chastan,Male,39,Declined to Identify,None,Not Admitted,null,29
+100-04-3993,04-04-2023,04:50:00,M. St Ange,Female,29,White,None,Not Admitted,null,16
+269-27-0398,04-04-2023,02:11:00,Z. MacPike,Male,7,White,None,Not Admitted,null,17
+837-04-4032,04-04-2023,02:36:00,H. Scrimgeour,Male,21,Two or More Races,None,Not Admitted,null,53
+851-85-8318,04-04-2023,15:35:00,G. D'Ruel,Male,9,African American,Orthopedics,Not Admitted,null,36
+858-60-9117,04-04-2023,18:10:00,L. Scorer,Female,39,African American,None,Admitted,null,32
+390-93-3319,04-04-2023,07:34:00,K. Glendenning,Male,73,African American,Cardiology,Not Admitted,null,25
+746-88-5176,05-04-2023,16:56:00,V. Carncross,Male,48,African American,None,Not Admitted,null,45
+377-59-2511,05-04-2023,06:33:00,H. Topling,Female,4,White,None,Admitted,null,22
+291-27-7983,05-04-2023,18:58:00,L. Pittman,Male,27,Asian,None,Not Admitted,4,49
+634-36-6673,05-04-2023,18:31:00,Q. O'Hegertie,Female,61,White,Orthopedics,Not Admitted,9,18
+438-98-4639,05-04-2023,06:25:00,T. Pawfoot,Female,26,African American,None,Not Admitted,10,46
+191-20-3872,05-04-2023,16:31:00,G. Rabjohn,Male,49,Declined to Identify,None,Admitted,null,13
+792-70-4015,05-04-2023,18:06:00,M. Robinett,Male,64,White,None,Admitted,null,28
+370-15-0510,05-04-2023,09:04:00,G. Orniz,Male,23,White,None,Admitted,0,26
+501-69-9067,05-04-2023,17:51:00,M. Davidoff,Male,7,Asian,General Practice,Not Admitted,null,42
+636-89-0732,05-04-2023,14:45:00,C. Brimacombe,Male,4,African American,None,Not Admitted,9,34
+856-07-9802,05-04-2023,05:43:00,P. Flukes,Female,23,White,Gastroenterology,Not Admitted,null,34
+587-82-5849,05-04-2023,22:19:00,G. Bierling,Male,2,Two or More Races,General Practice,Admitted,0,44
+254-67-7783,05-04-2023,18:19:00,T. Gatherell,Female,76,Asian,General Practice,Not Admitted,null,54
+592-07-8966,05-04-2023,03:11:00,K. Antonietti,Female,7,African American,None,Admitted,null,39
+513-78-9014,05-04-2023,16:47:00,Y. Clapshaw,Male,5,White,Orthopedics,Admitted,7,56
+530-81-5765,05-04-2023,21:58:00,D. Labadini,Male,10,Native American/Alaska Native,None,Admitted,null,17
+777-08-7046,05-04-2023,04:31:00,J. Follan,Male,15,White,None,Admitted,null,55
+246-59-3959,05-04-2023,12:41:00,R. Pierce,Male,8,Native American/Alaska Native,None,Admitted,null,30
+753-69-2921,05-04-2023,15:08:00,T. McInerney,Male,76,Pacific Islander,General Practice,Not Admitted,null,27
+193-43-6202,06-04-2023,02:00:00,D. Jon,Male,79,White,Gastroenterology,Not Admitted,null,13
+259-14-9232,06-04-2023,00:56:00,M. Olexa,Female,26,White,None,Not Admitted,1,24
+752-35-9712,06-04-2023,09:20:00,Y. Gresley,Male,66,White,None,Not Admitted,null,32
+533-11-5273,06-04-2023,14:55:00,R. Giacopello,Male,11,White,General Practice,Admitted,null,51
+781-16-9719,06-04-2023,16:27:00,H. Breslin,Male,78,Two or More Races,None,Admitted,null,19
+409-08-4045,06-04-2023,01:35:00,O. Spillane,Female,35,African American,Gastroenterology,Not Admitted,4,27
+131-43-0412,06-04-2023,23:08:00,G. Whittle,Female,50,Declined to Identify,None,Admitted,null,42
+684-81-2276,06-04-2023,09:00:00,T. Slowley,Male,37,Declined to Identify,None,Admitted,0,50
+846-40-7635,06-04-2023,20:41:00,K. Fern,Male,3,Two or More Races,General Practice,Not Admitted,null,26
+530-18-6594,06-04-2023,15:50:00,B. Delion,Male,69,African American,None,Not Admitted,null,21
+647-14-8894,06-04-2023,04:09:00,M. Jukes,Female,28,Native American/Alaska Native,None,Admitted,null,21
+297-60-2643,06-04-2023,20:24:00,K. Aron,Male,37,Two or More Races,Cardiology,Admitted,3,31
+297-23-3279,06-04-2023,18:26:00,Q. Glazer,Male,63,Two or More Races,None,Not Admitted,null,44
+443-36-2330,06-04-2023,06:42:00,J. Ballin,Female,10,African American,Orthopedics,Not Admitted,null,21
+614-27-2796,07-04-2023,03:52:00,S. Sango,Female,5,African American,None,Admitted,null,32
+246-11-7277,07-04-2023,23:45:00,F. Petkov,Female,2,Pacific Islander,None,Not Admitted,null,44
+170-64-9353,07-04-2023,22:13:00,W. Emanueli,Male,9,Two or More Races,None,Not Admitted,null,29
+283-30-7634,07-04-2023,20:30:00,S. La Batie,Female,51,Pacific Islander,None,Not Admitted,null,55
+442-41-7832,07-04-2023,06:09:00,A. Nesey,Male,10,White,None,Admitted,8,17
+707-07-4757,07-04-2023,03:56:00,G. Whaplington,Female,11,Declined to Identify,Neurology,Not Admitted,null,15
+530-29-2305,07-04-2023,19:56:00,Y. Lorait,Female,60,Two or More Races,None,Admitted,null,29
+469-90-5298,07-04-2023,06:40:00,R. Huggett,Male,39,Declined to Identify,General Practice,Not Admitted,null,27
+325-34-7964,07-04-2023,13:44:00,P. Flanagan,Female,49,Asian,None,Admitted,null,54
+324-71-0403,07-04-2023,11:58:00,T. D'Oyly,Female,68,White,Renal,Not Admitted,null,51
+701-53-5762,07-04-2023,21:38:00,R. Fennelly,Female,22,Pacific Islander,Orthopedics,Admitted,null,19
+104-41-1688,08-04-2023,11:22:00,H. Jime,Female,22,White,None,Not Admitted,null,55
+148-59-4378,08-04-2023,07:24:00,J. Hullett,Female,6,Pacific Islander,None,Not Admitted,null,33
+413-42-2249,08-04-2023,17:06:00,C. Fruser,Female,1,Declined to Identify,Orthopedics,Not Admitted,null,50
+323-15-5382,08-04-2023,00:02:00,Q. Dreye,Female,64,Asian,None,Not Admitted,null,17
+646-66-3685,08-04-2023,00:17:00,L. Elmhurst,Female,28,White,None,Not Admitted,8,50
+509-37-4729,08-04-2023,16:43:00,M. Bencher,Female,25,African American,Renal,Admitted,null,50
+441-68-9259,08-04-2023,03:24:00,R. Djurkovic,Male,5,African American,None,Admitted,null,22
+375-19-1172,08-04-2023,02:04:00,G. Earwaker,Male,70,African American,Orthopedics,Not Admitted,null,22
+144-25-3409,08-04-2023,20:29:00,N. Chetter,Female,76,White,None,Admitted,null,45
+176-32-3686,08-04-2023,21:43:00,N. Brimson,Male,26,White,Cardiology,Not Admitted,null,10
+362-31-6050,08-04-2023,03:47:00,U. Goble,Male,69,African American,Neurology,Admitted,null,24
+679-41-7943,08-04-2023,00:22:00,R. Richten,Male,68,White,General Practice,Admitted,null,33
+898-58-4727,08-04-2023,14:04:00,K. Ivons,Female,43,Two or More Races,General Practice,Admitted,null,24
+334-31-4472,08-04-2023,17:26:00,C. Spracklin,Male,61,White,None,Not Admitted,null,30
+703-16-0191,08-04-2023,13:10:00,Y. Ackland,Male,66,African American,Orthopedics,Admitted,null,11
+408-05-7112,08-04-2023,12:34:00,R. Nevinson,Female,73,Pacific Islander,None,Admitted,null,40
+639-36-5043,08-04-2023,12:04:00,H. Rayne,Male,68,White,General Practice,Not Admitted,null,22
+270-14-4609,08-04-2023,01:14:00,T. Eldred,Female,3,White,Orthopedics,Not Admitted,null,32
+591-74-8687,08-04-2023,08:12:00,W. Fargher,Female,77,African American,None,Admitted,8,32
+593-93-2765,08-04-2023,20:10:00,E. Le Huquet,Female,2,Two or More Races,Orthopedics,Not Admitted,8,25
+578-73-4353,08-04-2023,23:49:00,E. Siccombe,Female,15,African American,Orthopedics,Not Admitted,null,33
+434-16-5502,08-04-2023,12:59:00,N. Romanet,Female,50,White,None,Admitted,null,37
+420-78-7513,09-04-2023,12:10:00,F. MacInerney,Female,78,Declined to Identify,General Practice,Admitted,null,27
+207-23-0750,09-04-2023,08:04:00,B. Grevile,Female,6,African American,None,Not Admitted,null,11
+219-71-9644,09-04-2023,15:36:00,F. Paradin,Female,19,Asian,General Practice,Admitted,null,30
+852-26-5911,09-04-2023,22:06:00,V. Foxwell,Male,62,Two or More Races,None,Admitted,null,47
+400-45-2411,09-04-2023,08:34:00,X. Balden,Male,34,Two or More Races,None,Admitted,null,43
+388-07-6238,09-04-2023,03:11:00,B. Beaver,Female,7,White,Gastroenterology,Admitted,7,18
+115-32-2649,09-04-2023,23:54:00,W. Eyres,Male,30,White,None,Not Admitted,3,47
+436-09-6143,09-04-2023,11:09:00,C. Tawn,Male,63,African American,None,Not Admitted,null,51
+630-70-3180,09-04-2023,13:35:00,O. Hevey,Male,39,White,General Practice,Admitted,7,36
+610-55-3526,09-04-2023,01:07:00,Y. Ovid,Male,29,White,Physiotherapy,Admitted,null,14
+774-37-2696,09-04-2023,11:56:00,Y. Mauchlen,Male,73,White,General Practice,Admitted,null,53
+630-50-3515,09-04-2023,01:00:00,K. Collett,Female,48,Declined to Identify,Physiotherapy,Not Admitted,4,60
+419-53-5282,10-04-2023,04:38:00,R. Philippon,Male,52,Two or More Races,None,Not Admitted,9,30
+133-59-5051,10-04-2023,19:02:00,V. Conrad,Female,51,Two or More Races,None,Not Admitted,null,33
+606-08-9022,10-04-2023,06:13:00,C. Hawkslee,Male,51,Asian,None,Admitted,5,35
+526-56-4625,10-04-2023,13:30:00,G. Dreinan,Female,12,White,None,Admitted,null,20
+845-28-0750,10-04-2023,03:49:00,D. Sikorsky,Female,18,Asian,None,Admitted,9,50
+222-85-6440,10-04-2023,09:45:00,S. Petrolli,Male,35,White,Neurology,Not Admitted,null,34
+888-77-0325,10-04-2023,01:51:00,J. Jerzycowski,Female,55,Native American/Alaska Native,None,Not Admitted,7,18
+136-16-3393,10-04-2023,08:45:00,U. Carswell,Male,27,White,Renal,Admitted,4,47
+427-24-2579,10-04-2023,08:39:00,M. Prewett,Male,3,Pacific Islander,None,Admitted,0,36
+725-92-4975,10-04-2023,04:24:00,W. Goldstone,Female,35,White,General Practice,Not Admitted,null,19
+371-27-7072,10-04-2023,03:28:00,I. Pycock,Female,24,Pacific Islander,None,Admitted,null,48
+222-81-0128,10-04-2023,01:20:00,S. Ricardin,Female,55,Asian,General Practice,Admitted,null,20
+894-47-3029,10-04-2023,16:23:00,L. McNeachtain,Male,29,White,General Practice,Admitted,8,48
+496-71-2879,11-04-2023,21:06:00,J. Braham,Female,1,Two or More Races,Gastroenterology,Admitted,6,21
+241-39-9857,11-04-2023,05:14:00,U. Petett,Male,23,Native American/Alaska Native,General Practice,Not Admitted,null,57
+286-53-3539,11-04-2023,11:09:00,V. Membry,Female,30,Two or More Races,None,Admitted,null,46
+267-84-6280,11-04-2023,08:19:00,L. Rising,Female,57,Two or More Races,Cardiology,Admitted,10,47
+347-27-1017,11-04-2023,07:31:00,J. Pull,Female,19,Two or More Races,General Practice,Not Admitted,null,27
+204-94-7733,11-04-2023,22:55:00,V. Newband,Male,50,Two or More Races,Orthopedics,Not Admitted,null,51
+840-59-8475,11-04-2023,03:41:00,V. Romeo,Male,61,Asian,General Practice,Admitted,8,50
+713-60-5418,11-04-2023,17:02:00,H. Gilliam,Male,54,Asian,None,Admitted,null,52
+342-18-9585,11-04-2023,22:53:00,Q. Faichney,Female,52,White,None,Admitted,null,43
+683-70-1477,11-04-2023,13:49:00,J. MacLese,Female,51,Declined to Identify,General Practice,Not Admitted,null,53
+142-10-3821,11-04-2023,21:35:00,U. Oxenham,Female,3,Declined to Identify,General Practice,Not Admitted,null,24
+814-09-6431,11-04-2023,13:15:00,F. Barstock,Male,67,African American,General Practice,Not Admitted,null,11
+647-70-1937,11-04-2023,03:29:00,X. Benzing,Female,36,Two or More Races,None,Admitted,null,26
+366-08-8943,11-04-2023,10:55:00,H. Bubeer,Female,36,Asian,General Practice,Admitted,null,40
+421-08-1967,11-04-2023,09:20:00,B. Mahmood,Male,57,Asian,General Practice,Not Admitted,null,48
+414-99-7136,11-04-2023,16:15:00,R. Tirrey,Male,51,White,None,Admitted,2,53
+762-64-4163,11-04-2023,00:51:00,T. Cookson,Female,73,Pacific Islander,None,Admitted,null,16
+360-59-1270,12-04-2023,22:50:00,T. Coneley,Male,30,Native American/Alaska Native,General Practice,Not Admitted,null,59
+661-92-7059,12-04-2023,21:02:00,Z. Sleightholm,Male,42,African American,None,Not Admitted,0,51
+240-68-3060,12-04-2023,02:01:00,I. Tootell,Male,66,White,General Practice,Not Admitted,null,29
+142-78-0838,12-04-2023,09:12:00,L. Mattusov,Female,3,Asian,General Practice,Admitted,null,29
+274-29-8312,12-04-2023,21:45:00,G. Vaulkhard,Male,73,White,None,Not Admitted,null,47
+854-90-8395,12-04-2023,22:55:00,P. Gossop,Female,69,Native American/Alaska Native,Neurology,Not Admitted,null,53
+653-25-4152,12-04-2023,03:57:00,K. Smowton,Female,11,Two or More Races,None,Not Admitted,null,14
+732-47-1768,12-04-2023,15:40:00,O. Causby,Female,56,Two or More Races,Gastroenterology,Not Admitted,null,58
+224-58-4970,12-04-2023,19:18:00,P. Elverstone,Male,70,African American,None,Admitted,null,47
+439-32-1631,12-04-2023,15:25:00,L. Quinton,Male,16,White,Orthopedics,Admitted,8,42
+481-07-6937,12-04-2023,21:51:00,S. Garrard,Female,46,African American,General Practice,Not Admitted,null,42
+511-02-6241,12-04-2023,07:36:00,J. Kingscote,Male,78,Declined to Identify,General Practice,Admitted,null,26
+569-17-1454,12-04-2023,08:39:00,H. Lopez,Male,20,Two or More Races,None,Not Admitted,null,47
+277-77-1790,12-04-2023,15:18:00,O. Lilion,Female,73,Native American/Alaska Native,None,Not Admitted,null,59
+714-04-7254,12-04-2023,14:03:00,K. Odo,Female,25,Two or More Races,Neurology,Not Admitted,null,32
+233-20-7150,12-04-2023,12:53:00,E. Yole,Female,53,White,Gastroenterology,Admitted,null,13
+563-64-1719,12-04-2023,07:37:00,Y. Winteringham,Male,64,African American,None,Admitted,null,23
+871-56-7981,12-04-2023,23:13:00,H. Landy,Male,33,Two or More Races,Orthopedics,Not Admitted,null,43
+630-75-8261,12-04-2023,18:07:00,Y. Recher,Female,64,Two or More Races,Orthopedics,Admitted,null,53
+547-68-7669,12-04-2023,05:06:00,Y. Hurn,Male,6,Two or More Races,General Practice,Not Admitted,null,45
+274-62-9187,12-04-2023,19:25:00,O. Esland,Male,42,White,General Practice,Not Admitted,null,27
+529-58-1742,12-04-2023,01:56:00,S. Sellman,Male,26,White,Orthopedics,Admitted,null,16
+449-77-1658,12-04-2023,10:17:00,W. Broad,Male,35,African American,None,Admitted,null,24
+867-30-8564,12-04-2023,18:24:00,L. Elijahu,Male,43,Asian,None,Not Admitted,null,54
+628-20-1693,12-04-2023,07:08:00,H. Klimke,Female,18,White,None,Not Admitted,null,11
+182-89-0226,12-04-2023,18:12:00,R. Lothlorien,Female,74,African American,Cardiology,Not Admitted,9,26
+385-83-1337,12-04-2023,13:34:00,A. Simoni,Male,5,Declined to Identify,General Practice,Not Admitted,6,54
+897-46-6177,12-04-2023,04:53:00,W. Dillingham,Female,52,Two or More Races,None,Not Admitted,null,13
+177-87-5959,12-04-2023,14:37:00,Z. Prattin,Female,39,African American,None,Admitted,null,27
+344-99-0228,12-04-2023,00:52:00,V. Limpricht,Male,17,Asian,Physiotherapy,Admitted,null,44
+241-68-6242,13-04-2023,05:35:00,J. Spargo,Female,26,Asian,None,Admitted,null,37
+342-84-9323,13-04-2023,18:04:00,B. Thorold,Female,29,White,General Practice,Admitted,8,17
+583-85-8092,13-04-2023,21:04:00,V. Nickerson,Male,36,Two or More Races,General Practice,Not Admitted,null,54
+115-96-2596,13-04-2023,13:49:00,R. Dmitrovic,Female,16,Native American/Alaska Native,Orthopedics,Not Admitted,null,39
+702-47-3618,13-04-2023,05:21:00,W. Keppie,Male,9,African American,Physiotherapy,Not Admitted,9,56
+821-50-7505,13-04-2023,22:21:00,T. Rawlin,Female,38,Two or More Races,None,Admitted,null,23
+139-14-2557,13-04-2023,12:12:00,Y. Janks,Male,24,Native American/Alaska Native,Cardiology,Admitted,2,18
+745-60-8922,13-04-2023,01:32:00,O. Jacson,Male,31,Two or More Races,None,Not Admitted,null,14
+408-31-6363,13-04-2023,23:14:00,A. Stowe,Male,42,Two or More Races,Physiotherapy,Admitted,6,20
+261-65-5742,13-04-2023,13:48:00,X. Mugford,Female,77,White,None,Not Admitted,null,10
+509-21-3427,13-04-2023,16:09:00,C. Croy,Female,23,White,General Practice,Admitted,null,24
+752-27-1468,13-04-2023,22:43:00,D. Dedon,Female,68,African American,None,Admitted,3,53
+880-96-2037,13-04-2023,18:46:00,H. Jasper,Female,15,White,Orthopedics,Admitted,null,24
+663-19-4215,14-04-2023,19:05:00,X. Hardwin,Female,10,Native American/Alaska Native,None,Not Admitted,10,22
+735-20-6750,14-04-2023,00:25:00,D. Sheehan,Male,62,African American,None,Admitted,null,10
+507-46-3167,14-04-2023,10:49:00,N. Fackrell,Male,70,Declined to Identify,None,Not Admitted,null,19
+430-78-4586,14-04-2023,13:00:00,Q. Lamputt,Male,3,White,General Practice,Not Admitted,6,54
+858-17-6292,14-04-2023,12:55:00,I. Beacon,Female,71,African American,None,Admitted,null,14
+724-58-8259,14-04-2023,04:39:00,W. Briars,Male,56,Native American/Alaska Native,General Practice,Admitted,8,41
+417-96-2766,14-04-2023,15:52:00,E. Heyward,Female,22,Asian,None,Not Admitted,4,20
+439-17-0103,14-04-2023,01:26:00,F. Cuseick,Male,78,Two or More Races,Orthopedics,Not Admitted,6,10
+332-89-8975,14-04-2023,02:00:00,F. Dregan,Female,56,Two or More Races,General Practice,Admitted,null,15
+586-36-0979,14-04-2023,20:47:00,W. Brugmann,Male,61,African American,None,Not Admitted,null,44
+611-20-6971,14-04-2023,16:33:00,Z. Gonnel,Female,12,African American,Orthopedics,Not Admitted,null,12
+477-84-3629,14-04-2023,14:31:00,Z. Body,Female,28,Asian,Orthopedics,Admitted,null,55
+294-30-6567,14-04-2023,20:19:00,E. Winterborne,Male,21,Two or More Races,None,Admitted,null,42
+461-70-5641,14-04-2023,03:12:00,I. Glasscoo,Female,72,White,Orthopedics,Admitted,null,31
+552-08-9390,14-04-2023,03:43:00,Y. Stobbie,Female,66,African American,General Practice,Admitted,null,41
+265-01-7218,14-04-2023,06:19:00,K. MacAdam,Male,5,African American,Orthopedics,Not Admitted,null,34
+410-70-9311,14-04-2023,18:21:00,Z. Mundee,Male,12,Native American/Alaska Native,None,Not Admitted,5,33
+178-31-9644,14-04-2023,08:15:00,E. Illwell,Male,25,Asian,General Practice,Admitted,null,59
+891-56-9495,14-04-2023,06:17:00,I. Eyres,Female,17,White,General Practice,Not Admitted,null,40
+687-92-4881,14-04-2023,11:53:00,O. Morant,Female,6,Two or More Races,None,Not Admitted,null,49
+775-19-3289,14-04-2023,08:17:00,N. Brettle,Male,33,Declined to Identify,None,Admitted,null,20
+153-06-0149,15-04-2023,18:28:00,I. Thominga,Female,4,White,None,Not Admitted,null,22
+526-81-5714,15-04-2023,23:11:00,F. Congrave,Male,4,White,Cardiology,Admitted,null,12
+186-99-6396,15-04-2023,10:05:00,T. Szepe,Male,78,Native American/Alaska Native,None,Not Admitted,null,48
+749-39-3053,15-04-2023,03:22:00,Y. Minchella,Male,7,Declined to Identify,None,Admitted,null,56
+624-52-0442,15-04-2023,18:22:00,N. Stansby,Female,52,African American,General Practice,Admitted,8,58
+427-82-7478,15-04-2023,16:38:00,O. Greenstead,Male,53,White,None,Not Admitted,null,39
+661-65-1950,15-04-2023,23:38:00,X. Belin,Female,44,Native American/Alaska Native,Cardiology,Not Admitted,null,18
+473-15-4074,15-04-2023,03:28:00,M. Brimfield,Male,78,Pacific Islander,None,Not Admitted,null,54
+453-74-7317,15-04-2023,21:33:00,P. Bielfelt,Female,35,Pacific Islander,Gastroenterology,Admitted,1,52
+560-68-4267,15-04-2023,23:41:00,O. Dinwoodie,Male,20,Declined to Identify,None,Admitted,8,47
+132-48-1247,15-04-2023,18:40:00,G. Eastabrook,Female,58,Asian,None,Not Admitted,null,50
+105-08-6438,15-04-2023,09:44:00,J. Baumer,Male,2,African American,None,Not Admitted,null,27
+302-12-2442,16-04-2023,04:38:00,Z. Punton,Female,14,Declined to Identify,None,Admitted,null,12
+273-87-9584,16-04-2023,19:04:00,L. Storch,Male,3,Two or More Races,None,Not Admitted,null,57
+509-79-4975,16-04-2023,19:32:00,Y. Brennan,Male,19,Asian,Neurology,Not Admitted,null,52
+867-05-4344,16-04-2023,02:26:00,S. Gimlet,Female,31,Asian,General Practice,Admitted,1,27
+693-79-5815,16-04-2023,19:37:00,R. Hintze,Female,17,White,General Practice,Not Admitted,null,48
+265-90-3593,16-04-2023,21:38:00,Q. Madine,Male,40,Asian,General Practice,Admitted,10,44
+418-23-0440,16-04-2023,15:35:00,J. Clue,Female,52,Two or More Races,None,Admitted,null,29
+678-44-4772,16-04-2023,15:42:00,E. Devons,Female,27,Native American/Alaska Native,None,Not Admitted,null,32
+176-52-4519,16-04-2023,13:02:00,N. Shilleto,Male,11,White,None,Admitted,null,11
+326-64-7528,16-04-2023,13:38:00,Q. Maskall,Male,40,White,General Practice,Admitted,9,15
+389-24-7558,16-04-2023,18:07:00,N. Strettell,Female,41,Two or More Races,None,Not Admitted,3,31
+492-48-0459,16-04-2023,00:48:00,D. Brandom,Male,12,Two or More Races,None,Not Admitted,3,15
+814-54-8172,16-04-2023,00:20:00,G. Younie,Female,31,Declined to Identify,None,Admitted,8,20
+203-45-3196,16-04-2023,10:51:00,V. Seivertsen,Male,27,Asian,None,Not Admitted,null,37
+307-92-3400,16-04-2023,01:52:00,K. Caslett,Male,11,Pacific Islander,General Practice,Not Admitted,null,38
+429-32-3098,16-04-2023,20:13:00,Z. Alldridge,Female,76,White,None,Admitted,null,13
+638-55-9588,16-04-2023,20:51:00,E. Skures,Female,24,White,General Practice,Admitted,null,29
+267-78-0835,17-04-2023,12:26:00,D. Wellan,Female,51,White,Orthopedics,Not Admitted,null,11
+312-87-8639,17-04-2023,17:35:00,G. D'Acth,Female,16,African American,General Practice,Not Admitted,null,25
+648-23-5753,17-04-2023,01:46:00,E. Spofforth,Female,14,African American,None,Admitted,null,47
+869-79-1999,17-04-2023,16:43:00,Z. Headingham,Female,54,Native American/Alaska Native,Gastroenterology,Admitted,null,49
+412-75-8243,17-04-2023,21:17:00,H. Mansour,Female,78,Declined to Identify,General Practice,Admitted,null,30
+873-88-5082,17-04-2023,04:08:00,V. Lyfield,Female,19,Pacific Islander,Cardiology,Not Admitted,null,34
+805-27-2689,17-04-2023,20:15:00,G. Point,Female,48,Two or More Races,General Practice,Not Admitted,null,15
+597-41-0817,17-04-2023,08:03:00,T. Titman,Female,13,White,None,Admitted,1,32
+615-59-2575,17-04-2023,10:20:00,D. Haselhurst,Female,10,Two or More Races,General Practice,Not Admitted,7,50
+292-45-8684,17-04-2023,11:37:00,K. Hilliam,Female,51,White,General Practice,Admitted,6,25
+732-12-0603,17-04-2023,22:50:00,Z. Sarfatti,Male,18,White,General Practice,Not Admitted,null,48
+194-92-9947,17-04-2023,23:20:00,C. Stother,Male,52,Native American/Alaska Native,General Practice,Admitted,6,42
+622-88-2180,17-04-2023,07:54:00,H. Samper,Male,62,Asian,General Practice,Admitted,null,33
+782-34-4167,17-04-2023,09:04:00,X. Osgarby,Female,36,White,General Practice,Admitted,9,50
+201-10-9557,17-04-2023,21:53:00,F. Relfe,Male,69,White,None,Not Admitted,null,36
+601-22-0464,17-04-2023,11:53:00,C. Blakeborough,Male,38,Asian,None,Not Admitted,null,33
+261-82-9019,18-04-2023,17:34:00,W. Rembrant,Male,40,White,None,Not Admitted,2,51
+727-03-0231,18-04-2023,00:14:00,U. Kauffman,Female,53,White,None,Not Admitted,null,59
+106-39-9634,18-04-2023,10:49:00,R. Orta,Female,10,White,None,Admitted,null,48
+682-32-7258,18-04-2023,04:26:00,J. Knightsbridge,Male,28,White,General Practice,Admitted,null,46
+477-57-4070,18-04-2023,04:45:00,G. Potteridge,Male,57,African American,None,Admitted,2,33
+425-90-5230,18-04-2023,09:22:00,L. Willavoys,Female,51,Two or More Races,None,Admitted,8,34
+661-56-7551,18-04-2023,09:55:00,W. Wollard,Male,33,Asian,Physiotherapy,Admitted,null,52
+703-41-7007,18-04-2023,02:50:00,F. Phippen,Female,58,White,None,Not Admitted,null,35
+479-42-8894,18-04-2023,22:46:00,Z. Friman,Female,15,White,None,Not Admitted,null,29
+834-82-5675,18-04-2023,13:20:00,L. MacDermott,Female,18,White,None,Admitted,null,51
+159-84-9480,18-04-2023,05:34:00,C. Chappelle,Male,38,White,Orthopedics,Not Admitted,null,12
+380-93-9949,18-04-2023,00:05:00,A. Dorie,Female,2,Asian,None,Admitted,6,39
+857-68-2721,18-04-2023,16:09:00,W. Corradino,Female,29,Asian,None,Not Admitted,null,26
+324-66-3926,18-04-2023,12:05:00,S. Aleso,Female,34,Asian,None,Admitted,2,60
+765-73-7914,18-04-2023,06:26:00,P. Senior,Female,68,Native American/Alaska Native,General Practice,Not Admitted,null,49
+401-21-8466,18-04-2023,06:05:00,M. Shimuk,Female,10,White,None,Not Admitted,8,43
+792-91-8484,18-04-2023,02:55:00,U. Lambdon,Female,16,Two or More Races,None,Admitted,null,55
+533-29-8111,18-04-2023,23:12:00,M. Nassie,Male,26,White,General Practice,Not Admitted,null,29
+119-28-5124,18-04-2023,14:57:00,O. Pocklington,Female,16,Asian,General Practice,Admitted,null,51
+174-52-2854,18-04-2023,16:05:00,E. Rowcastle,Male,11,African American,None,Not Admitted,null,35
+658-47-5374,19-04-2023,07:21:00,K. Bricknall,Male,17,Pacific Islander,None,Admitted,null,21
+858-84-0931,19-04-2023,12:02:00,Y. Eynald,Female,61,Asian,General Practice,Not Admitted,null,59
+230-18-7731,19-04-2023,09:34:00,C. Knoller,Male,17,African American,None,Not Admitted,null,23
+413-16-2095,19-04-2023,09:32:00,M. Daborne,Male,76,White,None,Admitted,null,35
+864-37-9908,19-04-2023,13:17:00,Y. Chicco,Female,76,Asian,None,Not Admitted,null,48
+209-17-1202,19-04-2023,14:01:00,O. Hearst,Female,25,White,None,Admitted,null,53
+406-91-4923,19-04-2023,15:29:00,W. Moules,Male,63,Two or More Races,Physiotherapy,Admitted,null,14
+606-92-9021,19-04-2023,20:37:00,G. Kippin,Female,26,Pacific Islander,None,Admitted,null,30
+636-97-9988,19-04-2023,02:02:00,E. Salack,Female,46,Two or More Races,General Practice,Admitted,null,32
+898-29-8913,19-04-2023,08:32:00,B. Champneys,Female,54,Declined to Identify,General Practice,Admitted,4,19
+800-50-8275,19-04-2023,16:52:00,E. Jiroutek,Male,65,Asian,None,Not Admitted,6,15
+107-66-6733,19-04-2023,07:51:00,Y. Padula,Male,78,White,None,Admitted,5,35
+449-61-6847,19-04-2023,08:21:00,C. Matteacci,Male,24,Declined to Identify,None,Admitted,5,42
+381-34-5796,19-04-2023,16:12:00,E. Guillford,Female,66,Two or More Races,None,Admitted,null,18
+194-48-7359,19-04-2023,05:00:00,F. Stowers,Male,60,White,Orthopedics,Not Admitted,null,38
+127-06-6159,19-04-2023,08:48:00,T. Matthessen,Female,19,Asian,None,Not Admitted,null,54
+196-41-1005,19-04-2023,03:14:00,X. Battin,Male,2,White,Renal,Not Admitted,4,52
+650-10-8629,19-04-2023,02:19:00,K. Boater,Male,54,Asian,None,Admitted,5,11
+750-23-2793,20-04-2023,15:43:00,T. Kener,Female,34,White,None,Not Admitted,null,18
+669-58-8180,20-04-2023,16:36:00,L. Moynham,Female,56,Declined to Identify,None,Admitted,1,15
+686-80-7797,20-04-2023,17:18:00,P. Kibard,Male,49,White,None,Not Admitted,0,38
+352-85-0161,20-04-2023,08:38:00,Y. Canet,Male,65,White,None,Not Admitted,6,50
+255-51-2877,20-04-2023,00:13:00,H. Buff,Male,58,Asian,None,Not Admitted,null,59
+127-83-9031,20-04-2023,08:22:00,V. Badrock,Male,48,Asian,General Practice,Admitted,null,23
+877-20-8814,20-04-2023,23:25:00,N. Miroy,Male,4,Two or More Races,General Practice,Not Admitted,0,60
+376-61-1160,20-04-2023,10:27:00,I. Gudgeon,Female,77,African American,None,Not Admitted,null,24
+717-43-6092,20-04-2023,09:51:00,F. Probate,Female,70,Two or More Races,None,Admitted,null,15
+505-12-7655,20-04-2023,17:57:00,R. Kiss,Female,42,Two or More Races,Physiotherapy,Not Admitted,null,29
+821-22-8596,20-04-2023,18:28:00,G. Gergher,Female,23,African American,General Practice,Not Admitted,null,19
+373-46-4972,20-04-2023,04:54:00,M. de Mullett,Male,18,Two or More Races,None,Admitted,null,28
+216-59-3629,20-04-2023,17:52:00,G. Millom,Male,65,African American,None,Admitted,null,30
+241-49-0565,20-04-2023,07:52:00,S. Geertje,Female,11,White,None,Admitted,null,53
+790-80-4467,20-04-2023,02:29:00,J. Kingsnoad,Male,6,Two or More Races,None,Not Admitted,1,26
+805-59-9555,20-04-2023,01:50:00,K. Hadlow,Male,61,African American,None,Admitted,6,40
+424-85-2084,21-04-2023,11:18:00,K. Sire,Female,7,Two or More Races,None,Not Admitted,null,13
+746-57-1832,21-04-2023,19:20:00,Y. Frake,Female,52,African American,None,Admitted,null,52
+223-71-4722,21-04-2023,07:31:00,G. Kolak,Female,12,Asian,None,Admitted,null,15
+199-42-7548,21-04-2023,12:54:00,F. Divell,Female,47,African American,General Practice,Admitted,9,50
+736-66-9425,21-04-2023,23:10:00,K. Blaik,Female,64,Native American/Alaska Native,None,Not Admitted,0,29
+704-42-3319,21-04-2023,17:45:00,X. Coldbathe,Male,67,Declined to Identify,None,Not Admitted,5,40
+595-81-5298,21-04-2023,06:43:00,Y. Fantham,Female,38,Asian,Orthopedics,Not Admitted,null,33
+633-10-2308,21-04-2023,10:20:00,F. Ruff,Female,19,Declined to Identify,None,Admitted,4,15
+341-55-6183,21-04-2023,11:30:00,A. Errowe,Male,71,Native American/Alaska Native,None,Admitted,null,30
+178-38-2955,21-04-2023,22:28:00,O. Port,Male,75,Declined to Identify,General Practice,Admitted,null,34
+359-57-5243,21-04-2023,22:27:00,Y. Archanbault,Male,33,African American,General Practice,Not Admitted,null,46
+272-23-6884,21-04-2023,17:23:00,A. Mickan,Male,36,African American,None,Admitted,null,43
+872-24-6667,21-04-2023,19:43:00,O. Tippings,Female,70,Native American/Alaska Native,Cardiology,Not Admitted,null,50
+395-41-5858,21-04-2023,01:13:00,E. Ervine,Female,70,African American,None,Not Admitted,null,34
+130-62-4906,21-04-2023,02:44:00,Q. Spurrior,Female,50,White,None,Not Admitted,null,15
+292-43-0162,22-04-2023,13:50:00,T. Mose,Male,55,White,None,Admitted,null,28
+771-52-0904,22-04-2023,12:52:00,V. Coonihan,Male,59,African American,None,Admitted,6,28
+777-79-9434,22-04-2023,01:06:00,M. Gillespie,Male,55,Two or More Races,None,Admitted,null,25
+745-12-9434,22-04-2023,09:18:00,A. Stanier,Female,59,White,General Practice,Admitted,null,51
+436-77-3709,22-04-2023,04:54:00,O. Silverton,Male,30,Asian,None,Not Admitted,null,58
+304-29-9773,22-04-2023,21:32:00,E. Otley,Female,43,White,General Practice,Not Admitted,null,55
+744-01-1240,22-04-2023,18:46:00,C. Jindrich,Male,68,White,Orthopedics,Admitted,null,12
+258-75-3793,22-04-2023,14:11:00,E. Trayte,Male,71,Asian,General Practice,Admitted,null,57
+143-31-5826,22-04-2023,00:44:00,W. Posnette,Male,44,White,None,Admitted,null,37
+505-95-5668,22-04-2023,22:42:00,Y. Joannidi,Male,74,White,General Practice,Not Admitted,null,58
+401-25-3976,22-04-2023,17:57:00,F. Bagge,Female,50,African American,None,Admitted,null,26
+780-36-8575,22-04-2023,09:28:00,J. Gopsill,Female,33,Asian,None,Not Admitted,null,24
+261-20-6037,22-04-2023,22:10:00,A. Whitemarsh,Female,58,White,General Practice,Not Admitted,5,35
+127-97-8438,22-04-2023,02:07:00,S. Caney,Male,72,White,General Practice,Not Admitted,null,21
+311-11-5300,22-04-2023,12:04:00,Q. Conant,Male,58,African American,None,Admitted,null,10
+360-54-2856,22-04-2023,21:37:00,Z. Allcroft,Male,29,Asian,None,Not Admitted,9,45
+249-32-3203,22-04-2023,12:30:00,C. Rasell,Female,50,Two or More Races,None,Not Admitted,null,24
+473-65-5654,22-04-2023,18:25:00,B. Champneys,Female,36,Asian,None,Admitted,null,26
+845-19-4922,23-04-2023,18:00:00,A. Geffinger,Female,46,Declined to Identify,Orthopedics,Admitted,null,47
+171-02-6921,23-04-2023,18:31:00,S. Eustanch,Female,3,African American,Orthopedics,Admitted,null,50
+684-93-8823,23-04-2023,19:21:00,K. Childe,Male,74,White,Cardiology,Admitted,null,51
+578-45-8014,23-04-2023,16:35:00,Z. Nottram,Male,33,Asian,None,Not Admitted,null,32
+308-16-8481,23-04-2023,10:06:00,V. Catterick,Female,40,Asian,None,Not Admitted,null,35
+408-40-3195,23-04-2023,05:05:00,U. Wildsmith,Male,67,Asian,Orthopedics,Not Admitted,null,24
+816-62-0922,23-04-2023,09:17:00,N. Domenge,Male,65,Declined to Identify,General Practice,Not Admitted,null,58
+298-98-5532,23-04-2023,17:43:00,D. Spira,Female,14,African American,None,Not Admitted,null,22
+255-33-4780,23-04-2023,07:09:00,O. Clemmey,Male,8,White,None,Admitted,null,59
+837-22-5775,23-04-2023,14:11:00,F. Whiten,Female,17,Pacific Islander,None,Not Admitted,7,56
+858-85-6744,23-04-2023,00:43:00,W. Quiddington,Male,34,White,Orthopedics,Not Admitted,null,48
+794-76-5261,23-04-2023,19:13:00,R. Breming,Female,28,White,General Practice,Admitted,8,39
+870-50-4955,24-04-2023,05:44:00,Q. Eastlake,Female,1,Two or More Races,None,Admitted,6,23
+802-21-7879,24-04-2023,19:19:00,T. Jenk,Male,48,Declined to Identify,None,Not Admitted,null,40
+501-27-9080,24-04-2023,04:56:00,A. Wyard,Male,39,White,Cardiology,Admitted,null,48
+209-93-3232,24-04-2023,11:35:00,Q. Brawn,Male,23,Declined to Identify,None,Not Admitted,null,42
+243-12-8113,24-04-2023,19:44:00,N. Winborn,Female,63,White,General Practice,Not Admitted,1,26
+369-83-2373,24-04-2023,19:23:00,F. Pointing,Male,6,Declined to Identify,None,Not Admitted,null,35
+551-11-0556,24-04-2023,05:26:00,G. Rosenwasser,Male,14,Two or More Races,None,Not Admitted,null,54
+232-20-0713,24-04-2023,09:32:00,R. Simoncelli,Male,37,Asian,None,Admitted,10,58
+460-15-6586,24-04-2023,03:16:00,P. Stillmann,Female,27,African American,None,Not Admitted,5,32
+705-46-8327,24-04-2023,14:40:00,T. Wilson,Female,36,White,None,Admitted,null,30
+597-64-3246,24-04-2023,04:24:00,Q. Doody,Female,78,Asian,None,Not Admitted,4,22
+379-54-8312,24-04-2023,17:51:00,Z. Szymanek,Female,74,White,General Practice,Not Admitted,null,16
+160-14-1320,24-04-2023,22:49:00,K. de Vaen,Male,73,White,None,Not Admitted,3,31
+693-17-8496,24-04-2023,06:00:00,F. Plunkett,Female,34,Two or More Races,None,Admitted,8,52
+785-28-4887,25-04-2023,23:01:00,O. Bolt,Male,40,White,General Practice,Not Admitted,null,12
+216-32-9846,25-04-2023,10:03:00,I. Cettell,Female,66,White,General Practice,Not Admitted,null,30
+303-52-1484,25-04-2023,15:33:00,U. Milam,Female,16,Declined to Identify,General Practice,Admitted,null,41
+101-13-4808,25-04-2023,01:36:00,V. Gowdridge,Female,30,Declined to Identify,None,Admitted,3,30
+272-30-8327,25-04-2023,16:40:00,C. Kilgour,Female,56,Pacific Islander,None,Not Admitted,null,20
+392-87-5203,25-04-2023,00:44:00,B. Duham,Male,10,African American,Orthopedics,Admitted,8,52
+254-14-1466,25-04-2023,09:46:00,L. Robichon,Female,35,African American,Orthopedics,Admitted,null,21
+214-64-8639,25-04-2023,04:33:00,G. La Wille,Female,75,White,General Practice,Not Admitted,null,58
+696-30-0533,25-04-2023,23:33:00,T. Ervine,Female,22,Native American/Alaska Native,None,Admitted,0,51
+359-70-0645,25-04-2023,13:28:00,E. Morena,Male,8,Two or More Races,None,Admitted,null,56
+669-63-9052,25-04-2023,21:25:00,I. Shoebridge,Male,2,Declined to Identify,None,Not Admitted,null,37
+609-17-4908,25-04-2023,03:02:00,E. Lenney,Male,76,Declined to Identify,None,Admitted,7,51
+557-44-3971,25-04-2023,18:20:00,C. Patriskson,Male,18,Declined to Identify,Orthopedics,Admitted,null,60
+365-88-0539,25-04-2023,09:25:00,I. Duxfield,Female,76,Two or More Races,Physiotherapy,Admitted,2,49
+755-90-4647,25-04-2023,23:01:00,B. Gwilliam,Male,67,White,None,Admitted,2,29
+809-77-6432,25-04-2023,11:21:00,V. Spelling,Female,47,African American,Orthopedics,Not Admitted,1,55
+613-57-6485,25-04-2023,07:51:00,U. Dadswell,Female,10,African American,Neurology,Admitted,null,41
+274-84-9636,25-04-2023,05:35:00,D. Kennicott,Female,15,White,General Practice,Admitted,0,38
+820-78-6035,26-04-2023,22:00:00,I. Aronov,Female,28,White,None,Not Admitted,null,22
+303-71-6742,26-04-2023,11:08:00,O. Frankcomb,Female,21,Two or More Races,None,Admitted,null,34
+402-65-3498,26-04-2023,21:57:00,Y. Sharpe,Male,71,African American,None,Not Admitted,null,30
+458-99-8740,26-04-2023,16:43:00,P. Fountain,Male,61,Two or More Races,General Practice,Not Admitted,null,28
+477-57-9877,26-04-2023,14:09:00,N. Trevor,Male,19,Two or More Races,None,Admitted,null,17
+489-73-9085,26-04-2023,20:35:00,G. Hattersley,Female,9,African American,Gastroenterology,Admitted,null,56
+566-74-1481,26-04-2023,12:11:00,V. Clare,Male,6,White,None,Admitted,5,10
+749-52-0280,26-04-2023,01:57:00,H. Swanne,Female,54,Asian,None,Not Admitted,7,43
+396-15-3301,26-04-2023,15:39:00,M. Norcliff,Female,67,Two or More Races,General Practice,Admitted,null,21
+230-34-4538,26-04-2023,21:37:00,C. Costi,Female,17,White,None,Not Admitted,9,37
+698-79-0404,26-04-2023,07:26:00,G. Lockney,Male,18,Asian,None,Admitted,null,19
+120-25-2822,26-04-2023,12:06:00,H. Dael,Male,15,Two or More Races,None,Not Admitted,null,32
+734-07-6364,26-04-2023,07:01:00,O. Fridaye,Female,16,Declined to Identify,Neurology,Not Admitted,null,38
+695-90-6476,26-04-2023,21:49:00,A. Paget,Male,58,African American,Orthopedics,Not Admitted,4,41
+667-03-3602,26-04-2023,21:04:00,Y. Lampen,Female,73,African American,None,Not Admitted,null,32
+365-59-3831,26-04-2023,15:09:00,L. Bettlestone,Male,18,Asian,General Practice,Admitted,null,18
+438-35-3087,27-04-2023,11:46:00,L. Beau,Male,45,Two or More Races,None,Admitted,2,36
+281-43-0611,27-04-2023,14:35:00,V. Barthelme,Female,48,Declined to Identify,None,Not Admitted,10,21
+242-37-3166,27-04-2023,15:44:00,H. Shorto,Male,10,White,None,Admitted,0,55
+230-57-4543,27-04-2023,20:50:00,M. Whittlesea,Male,70,Two or More Races,None,Not Admitted,null,27
+669-25-6650,27-04-2023,15:40:00,E. Wilks,Female,65,White,None,Not Admitted,9,39
+667-07-0227,27-04-2023,07:34:00,S. Castagnaro,Male,64,Declined to Identify,General Practice,Not Admitted,null,60
+867-09-8334,27-04-2023,12:40:00,K. Walework,Male,73,African American,None,Admitted,null,25
+748-72-0573,27-04-2023,08:11:00,C. Castille,Female,49,Two or More Races,None,Not Admitted,null,29
+183-10-1974,27-04-2023,20:44:00,B. Gorey,Male,20,Declined to Identify,None,Admitted,null,44
+728-02-9993,27-04-2023,21:27:00,U. Cappell,Male,43,White,General Practice,Admitted,3,23
+166-36-5523,27-04-2023,07:15:00,R. Claiden,Male,70,Two or More Races,General Practice,Admitted,null,17
+527-01-5968,27-04-2023,14:20:00,O. Stryde,Male,9,White,None,Not Admitted,6,45
+735-88-4353,27-04-2023,08:59:00,G. Redbourn,Male,37,White,None,Not Admitted,null,16
+304-19-1206,27-04-2023,10:32:00,C. Lilion,Male,70,Two or More Races,General Practice,Not Admitted,9,44
+484-45-3732,27-04-2023,03:45:00,T. Ondrasek,Female,8,Asian,None,Admitted,null,30
+636-95-9318,27-04-2023,22:05:00,U. Redsull,Female,65,Pacific Islander,None,Admitted,10,25
+381-69-6342,28-04-2023,23:27:00,X. Spirit,Female,65,Asian,None,Not Admitted,null,56
+852-69-6258,28-04-2023,08:35:00,L. Fagence,Female,21,White,None,Admitted,0,39
+786-79-1881,28-04-2023,07:42:00,I. Abrahmson,Female,11,Native American/Alaska Native,Orthopedics,Not Admitted,null,20
+840-93-3146,28-04-2023,19:34:00,E. McNea,Male,21,White,None,Not Admitted,null,49
+331-93-9295,28-04-2023,05:36:00,J. Vain,Female,76,White,None,Admitted,null,41
+316-16-8848,28-04-2023,20:10:00,T. Andree,Male,29,Two or More Races,General Practice,Admitted,null,23
+628-85-1987,28-04-2023,10:42:00,K. Phelps,Female,18,Two or More Races,None,Admitted,null,18
+180-56-0276,28-04-2023,23:23:00,A. Platts,Male,42,White,Orthopedics,Not Admitted,8,22
+715-12-7760,28-04-2023,14:56:00,C. Ovey,Male,49,Two or More Races,General Practice,Admitted,5,43
+234-11-2272,28-04-2023,22:02:00,Q. Bretherick,Female,71,Pacific Islander,None,Not Admitted,null,44
+258-20-1592,28-04-2023,17:59:00,M. de Bullion,Male,2,White,Physiotherapy,Admitted,10,56
+791-34-3279,28-04-2023,09:59:00,F. Kopfen,Male,40,Declined to Identify,None,Not Admitted,null,21
+630-34-6448,28-04-2023,18:16:00,N. Causton,Male,28,Pacific Islander,Cardiology,Not Admitted,null,23
+504-78-6609,28-04-2023,13:15:00,J. Di Francecshi,Male,40,Native American/Alaska Native,None,Not Admitted,null,23
+774-04-3304,28-04-2023,05:13:00,G. Ruddy,Female,34,African American,Orthopedics,Not Admitted,null,27
+249-19-1543,28-04-2023,15:12:00,P. Dunnet,Female,2,White,Orthopedics,Admitted,null,16
+207-95-6685,29-04-2023,10:01:00,U. Shepton,Female,24,White,None,Admitted,null,23
+357-39-6143,29-04-2023,02:32:00,X. Connew,Female,42,African American,None,Not Admitted,null,59
+822-30-1537,29-04-2023,11:55:00,I. Haistwell,Male,12,Pacific Islander,Cardiology,Admitted,null,21
+832-41-6464,29-04-2023,21:16:00,X. Elgey,Female,17,White,General Practice,Admitted,9,55
+890-17-4503,29-04-2023,01:15:00,Q. Kinsley,Female,10,African American,None,Admitted,4,36
+261-25-9152,29-04-2023,00:15:00,B. Bakey,Male,30,Asian,General Practice,Admitted,6,46
+536-91-2898,29-04-2023,11:29:00,I. Leathem,Male,31,Two or More Races,General Practice,Not Admitted,null,27
+830-63-3368,29-04-2023,06:04:00,U. Doel,Female,35,White,General Practice,Admitted,null,14
+359-65-8965,29-04-2023,02:43:00,N. Breyt,Female,66,Asian,Cardiology,Admitted,10,18
+546-34-5816,29-04-2023,03:42:00,C. Youthead,Female,48,Two or More Races,None,Admitted,2,45
+478-05-6128,29-04-2023,12:44:00,H. Satterly,Male,33,White,None,Not Admitted,4,48
+549-53-8725,29-04-2023,10:51:00,Z. Klimshuk,Male,15,White,None,Admitted,null,52
+109-59-5859,29-04-2023,19:09:00,B. Langfield,Male,26,Asian,None,Admitted,7,57
+717-62-8354,29-04-2023,09:50:00,M. Kynder,Female,12,Native American/Alaska Native,None,Not Admitted,1,39
+693-28-8846,30-04-2023,08:43:00,Q. Ragsdall,Male,63,White,General Practice,Not Admitted,null,53
+299-32-9018,30-04-2023,04:19:00,R. Kerins,Male,4,Native American/Alaska Native,Neurology,Not Admitted,null,27
+121-30-7937,30-04-2023,04:33:00,T. Wilse,Male,71,African American,None,Not Admitted,3,24
+218-44-6635,30-04-2023,04:41:00,R. Parsons,Male,36,Native American/Alaska Native,General Practice,Not Admitted,null,13
+175-33-9092,30-04-2023,08:32:00,K. Darnborough,Male,30,African American,None,Admitted,null,14
+781-76-4333,30-04-2023,03:28:00,A. Frisdick,Male,25,Two or More Races,None,Admitted,8,53
+870-81-1512,30-04-2023,12:38:00,K. Massard,Female,56,Native American/Alaska Native,Neurology,Not Admitted,null,46
+807-60-0884,30-04-2023,04:37:00,O. Camoys,Male,19,Declined to Identify,None,Admitted,null,19
+189-09-9986,30-04-2023,18:15:00,S. Noden,Female,60,Two or More Races,General Practice,Not Admitted,1,49
+301-60-1162,30-04-2023,15:33:00,C. Pitts,Female,14,African American,General Practice,Not Admitted,null,27
+210-58-4747,30-04-2023,09:37:00,N. Massingberd,Male,43,White,None,Not Admitted,8,50
+331-63-7662,30-04-2023,22:19:00,Z. Taggett,Female,62,White,None,Not Admitted,null,11
+466-18-4689,30-04-2023,07:20:00,C. Tregensoe,Male,37,Pacific Islander,None,Not Admitted,null,28
+883-52-8117,30-04-2023,21:38:00,P. Blasio,Male,2,Asian,None,Admitted,8,44
+786-88-7335,01-05-2023,17:01:00,B. Normansell,Female,7,African American,General Practice,Admitted,null,19
+229-39-4308,01-05-2023,18:29:00,W. Tirkin,Male,27,African American,None,Admitted,6,16
+439-52-0309,01-05-2023,00:29:00,F. Pochet,Male,30,White,None,Not Admitted,null,37
+737-84-1709,01-05-2023,12:20:00,I. Fallowfield,Male,61,White,None,Not Admitted,null,14
+742-60-3962,01-05-2023,12:07:00,Z. Windley,Male,61,Declined to Identify,General Practice,Not Admitted,null,56
+319-60-7646,01-05-2023,05:20:00,W. Tatnell,Female,76,Two or More Races,Orthopedics,Admitted,null,26
+714-41-2161,01-05-2023,22:37:00,T. Solley,Female,31,African American,Neurology,Admitted,null,41
+228-43-4348,01-05-2023,18:28:00,D. McDowell,Male,65,African American,None,Admitted,null,36
+594-06-1700,01-05-2023,00:38:00,F. Wickens,Male,77,Asian,None,Not Admitted,null,28
+559-43-9962,01-05-2023,06:25:00,A. Destouche,Female,36,Asian,None,Not Admitted,null,13
+534-15-5048,01-05-2023,20:20:00,X. Vasilyonok,Female,10,African American,General Practice,Not Admitted,null,43
+214-91-3829,01-05-2023,06:05:00,Y. Maylor,Female,77,White,General Practice,Not Admitted,5,46
+260-06-9563,01-05-2023,23:20:00,H. Sherville,Female,41,African American,None,Not Admitted,null,17
+435-33-5469,01-05-2023,03:04:00,E. Anthoine,Female,28,African American,None,Admitted,null,23
+180-40-9473,01-05-2023,19:38:00,Y. Mattioli,Male,5,Declined to Identify,Orthopedics,Admitted,null,17
+555-65-1219,01-05-2023,10:36:00,B. Gammell,Male,45,African American,None,Not Admitted,null,29
+108-35-4145,01-05-2023,10:04:00,B. Brychan,Male,79,White,None,Admitted,null,48
+209-04-5455,01-05-2023,17:09:00,L. Booley,Female,18,Two or More Races,Gastroenterology,Admitted,null,35
+444-83-4739,01-05-2023,00:54:00,Q. Airey,Female,44,White,General Practice,Not Admitted,null,30
+357-72-8460,01-05-2023,07:01:00,T. Fannon,Female,56,Two or More Races,None,Admitted,null,56
+746-23-4827,02-05-2023,18:25:00,K. Baelde,Female,6,White,None,Not Admitted,null,40
+336-78-5411,02-05-2023,13:44:00,K. Forcer,Female,73,African American,None,Not Admitted,null,58
+778-04-2774,02-05-2023,18:54:00,I. McCrohon,Female,50,Native American/Alaska Native,General Practice,Admitted,10,38
+678-15-3957,02-05-2023,16:55:00,Q. Lukasik,Female,45,Declined to Identify,General Practice,Admitted,null,19
+251-61-0833,02-05-2023,17:28:00,U. Grastye,Male,29,White,None,Admitted,null,12
+543-26-8730,02-05-2023,07:52:00,I. Chaperling,Female,11,African American,None,Not Admitted,null,48
+679-67-8043,02-05-2023,02:20:00,G. De la Eglise,Female,40,White,General Practice,Admitted,null,23
+259-09-5907,02-05-2023,21:01:00,U. Kimbrough,Male,79,White,Physiotherapy,Admitted,1,56
+319-09-5768,02-05-2023,14:34:00,W. Ianetti,Female,39,White,Renal,Not Admitted,null,15
+410-83-6667,02-05-2023,16:36:00,G. Paireman,Female,22,Native American/Alaska Native,None,Admitted,null,39
+180-22-8491,02-05-2023,19:46:00,A. Gadsdon,Female,42,Asian,None,Admitted,1,37
+657-05-4117,02-05-2023,03:29:00,O. Eglise,Female,18,African American,Physiotherapy,Not Admitted,null,11
+674-56-8811,02-05-2023,13:26:00,P. Predohl,Male,55,Two or More Races,None,Not Admitted,2,55
+660-54-4475,02-05-2023,06:00:00,U. Duffill,Male,34,Two or More Races,Orthopedics,Admitted,5,45
+508-47-0601,02-05-2023,08:43:00,I. Heading,Female,60,White,None,Not Admitted,1,18
+795-64-7565,02-05-2023,03:19:00,S. Marklin,Male,38,Native American/Alaska Native,General Practice,Admitted,null,34
+780-83-2349,03-05-2023,21:30:00,S. Sketch,Male,32,White,Orthopedics,Not Admitted,null,55
+240-13-4972,03-05-2023,21:15:00,A. Warriner,Male,5,Declined to Identify,Neurology,Not Admitted,null,18
+478-58-9136,03-05-2023,11:27:00,B. Judkin,Female,65,African American,None,Admitted,null,54
+286-21-4061,03-05-2023,12:11:00,X. Raden,Male,28,Asian,None,Not Admitted,6,17
+548-85-7423,03-05-2023,14:51:00,X. Mcsarry,Female,59,African American,Gastroenterology,Admitted,null,45
+137-94-4888,03-05-2023,06:23:00,E. Mattheis,Female,31,White,General Practice,Not Admitted,7,43
+319-81-9733,03-05-2023,09:15:00,L. Bilton,Female,58,Declined to Identify,General Practice,Admitted,9,33
+706-06-5485,03-05-2023,22:00:00,U. Dyka,Female,48,Declined to Identify,None,Not Admitted,null,53
+575-80-2143,03-05-2023,12:50:00,B. Swayte,Female,11,Pacific Islander,None,Admitted,null,10
+200-67-7295,03-05-2023,08:24:00,V. Bartrum,Female,76,White,None,Admitted,null,41
+150-10-7152,03-05-2023,02:18:00,T. Polle,Male,17,Asian,Physiotherapy,Admitted,null,46
+388-92-5029,03-05-2023,00:33:00,D. Titterell,Female,15,Native American/Alaska Native,None,Not Admitted,null,49
+693-69-3206,03-05-2023,14:08:00,J. Trelevan,Male,39,Asian,None,Admitted,6,40
+893-71-6988,03-05-2023,07:31:00,Q. Hogben,Female,36,Two or More Races,None,Not Admitted,null,50
+759-67-8916,03-05-2023,09:05:00,H. Harrower,Female,69,Two or More Races,None,Admitted,null,44
+715-52-4357,03-05-2023,22:42:00,J. Davey,Female,35,Two or More Races,None,Admitted,2,59
+389-47-4560,03-05-2023,19:06:00,Z. Klaggeman,Male,79,White,None,Admitted,null,25
+845-94-0950,03-05-2023,19:49:00,U. Bloy,Female,63,Two or More Races,Cardiology,Admitted,null,25
+459-89-1735,03-05-2023,05:33:00,L. Cattell,Male,55,African American,General Practice,Not Admitted,null,58
+133-65-2351,03-05-2023,04:59:00,H. de la Valette Parisot,Female,76,Asian,Orthopedics,Admitted,null,57
+662-21-6522,04-05-2023,13:16:00,G. Stanlack,Male,69,White,None,Admitted,null,49
+214-94-9998,04-05-2023,08:50:00,Y. Fullerton,Female,35,Asian,None,Not Admitted,null,13
+690-33-5798,04-05-2023,08:11:00,P. Fernier,Male,3,Two or More Races,None,Not Admitted,null,31
+869-06-1488,04-05-2023,15:38:00,Q. Angel,Male,8,Two or More Races,None,Admitted,null,27
+209-23-9967,04-05-2023,16:37:00,P. Yoslowitz,Male,66,Two or More Races,Orthopedics,Not Admitted,0,16
+712-08-8150,04-05-2023,12:21:00,Z. Howton,Female,30,African American,None,Admitted,10,36
+689-97-9515,04-05-2023,15:59:00,T. Freezer,Male,13,White,None,Not Admitted,4,32
+705-59-1580,04-05-2023,07:22:00,M. Beiderbecke,Female,20,African American,None,Not Admitted,null,49
+524-73-2304,04-05-2023,11:11:00,Z. Griffith,Male,23,Native American/Alaska Native,Neurology,Admitted,null,38
+201-24-2940,04-05-2023,03:48:00,L. Willison,Female,41,White,None,Admitted,null,16
+243-08-9374,04-05-2023,15:09:00,B. Capstick,Female,63,White,None,Not Admitted,null,16
+470-99-9429,04-05-2023,06:38:00,A. Nevill,Male,68,White,General Practice,Not Admitted,3,25
+641-36-6818,04-05-2023,12:43:00,D. Haszard,Male,67,White,General Practice,Admitted,null,38
+448-28-9888,04-05-2023,22:00:00,I. Brimfield,Male,68,Two or More Races,None,Admitted,null,36
+581-49-3932,04-05-2023,02:39:00,B. Boller,Female,26,Asian,None,Admitted,7,29
+295-48-6682,04-05-2023,01:54:00,O. Agar,Male,62,White,None,Admitted,null,45
+176-93-9459,05-05-2023,13:59:00,E. Portugal,Male,54,Two or More Races,Orthopedics,Not Admitted,null,29
+895-36-1172,05-05-2023,05:25:00,S. Lernihan,Female,26,White,None,Admitted,null,11
+642-51-0779,05-05-2023,04:10:00,S. Farthing,Male,37,African American,None,Admitted,null,57
+578-76-6120,05-05-2023,05:32:00,I. Cissell,Male,51,Asian,General Practice,Admitted,9,48
+688-36-6207,05-05-2023,05:48:00,A. Biggadyke,Female,23,Declined to Identify,None,Not Admitted,null,30
+417-52-5675,05-05-2023,21:40:00,U. Kennelly,Male,26,African American,Physiotherapy,Admitted,null,48
+625-37-2390,05-05-2023,15:50:00,D. Moorcraft,Female,60,White,None,Not Admitted,2,18
+235-51-3074,05-05-2023,19:46:00,E. Woollons,Female,6,Pacific Islander,None,Not Admitted,null,14
+618-62-6094,05-05-2023,01:49:00,B. Shrigley,Male,27,Pacific Islander,Neurology,Not Admitted,null,24
+514-16-0437,05-05-2023,18:02:00,O. Wiggin,Male,36,White,Orthopedics,Admitted,null,59
+605-75-8255,05-05-2023,12:58:00,E. Fernez,Female,38,White,Neurology,Not Admitted,null,52
+676-15-6485,05-05-2023,09:34:00,N. Cino,Female,62,Pacific Islander,None,Not Admitted,8,26
+731-53-2021,05-05-2023,19:19:00,B. Shah,Male,13,White,None,Admitted,3,20
+426-96-0135,05-05-2023,22:52:00,V. Merrilees,Female,14,Pacific Islander,Orthopedics,Admitted,null,60
+694-42-3578,05-05-2023,11:35:00,O. Gullberg,Female,56,White,General Practice,Not Admitted,null,24
+676-76-4936,05-05-2023,09:05:00,N. Spino,Female,3,African American,Gastroenterology,Admitted,null,43
+257-54-0881,05-05-2023,19:12:00,T. Kinane,Female,40,Native American/Alaska Native,None,Admitted,null,32
+716-21-5059,05-05-2023,00:52:00,F. Dosdale,Female,42,Native American/Alaska Native,General Practice,Not Admitted,null,11
+230-89-3177,06-05-2023,16:40:00,G. McGreil,Male,54,White,None,Admitted,null,36
+847-72-5654,06-05-2023,22:01:00,L. McGlaughn,Male,37,White,None,Not Admitted,null,49
+793-63-1688,06-05-2023,06:59:00,R. Morison,Male,1,African American,None,Not Admitted,null,39
+446-70-7796,06-05-2023,17:49:00,X. Cejka,Female,28,Two or More Races,Neurology,Not Admitted,9,22
+160-10-6189,06-05-2023,15:04:00,J. Mico,Male,29,African American,None,Not Admitted,null,60
+177-05-5852,06-05-2023,23:25:00,I. Delatour,Male,71,White,General Practice,Not Admitted,null,25
+824-94-3306,06-05-2023,06:25:00,D. Benham,Male,30,Asian,Gastroenterology,Not Admitted,1,37
+204-57-1964,06-05-2023,13:25:00,H. Le Bosse,Female,52,Declined to Identify,Orthopedics,Not Admitted,null,11
+811-13-4461,06-05-2023,18:02:00,U. Kloska,Female,45,White,Orthopedics,Admitted,3,16
+665-98-5232,06-05-2023,05:51:00,C. Hanbury,Male,8,Declined to Identify,Gastroenterology,Not Admitted,null,48
+874-60-4529,06-05-2023,09:23:00,T. Wegman,Female,19,Asian,None,Not Admitted,null,51
+311-70-7578,06-05-2023,20:18:00,Z. Wyld,Female,36,African American,None,Not Admitted,null,49
+436-49-3831,06-05-2023,18:24:00,J. Doughtery,Female,45,Two or More Races,Orthopedics,Admitted,null,41
+410-16-6184,06-05-2023,12:14:00,O. Danieli,Male,4,Native American/Alaska Native,None,Not Admitted,8,32
+430-99-6185,06-05-2023,12:21:00,Q. Jubert,Female,12,African American,General Practice,Admitted,null,12
+504-59-9776,06-05-2023,07:07:00,P. Chavez,Male,67,Pacific Islander,Physiotherapy,Not Admitted,null,25
+389-33-9944,07-05-2023,23:28:00,P. Rens,Female,65,White,None,Not Admitted,null,27
+202-14-7624,07-05-2023,10:30:00,S. Whetson,Female,43,African American,None,Not Admitted,null,28
+352-11-2598,07-05-2023,15:51:00,U. Passman,Female,69,African American,None,Admitted,null,37
+206-57-6026,07-05-2023,06:02:00,N. Clopton,Female,59,Asian,Orthopedics,Not Admitted,null,19
+110-62-5261,07-05-2023,08:49:00,D. Blezard,Female,37,Two or More Races,General Practice,Admitted,8,38
+619-11-5945,07-05-2023,04:40:00,C. Ince,Male,76,African American,Orthopedics,Admitted,null,18
+425-93-4522,07-05-2023,17:43:00,V. Parrot,Male,29,African American,None,Admitted,null,30
+472-97-6207,07-05-2023,11:14:00,X. Bromehed,Female,31,White,Orthopedics,Admitted,1,59
+347-41-3905,07-05-2023,04:00:00,A. Hedde,Female,30,African American,None,Admitted,null,55
+739-88-4514,07-05-2023,17:58:00,A. Repp,Female,51,Declined to Identify,General Practice,Admitted,null,51
+535-44-1807,07-05-2023,05:21:00,I. Rosenboim,Male,37,Declined to Identify,None,Admitted,null,44
+768-93-9567,07-05-2023,04:28:00,P. Sheran,Female,11,African American,General Practice,Not Admitted,6,29
+295-18-8464,07-05-2023,20:15:00,S. Stebbings,Male,9,African American,None,Admitted,null,33
+599-32-7561,07-05-2023,13:35:00,E. Calcott,Female,77,Two or More Races,None,Not Admitted,7,38
+522-16-8744,07-05-2023,01:06:00,M. Jedras,Male,60,African American,None,Not Admitted,2,18
+106-90-6844,08-05-2023,13:38:00,D. Pluck,Male,66,Native American/Alaska Native,None,Not Admitted,null,29
+636-98-7660,08-05-2023,14:50:00,L. Huddlestone,Female,8,Pacific Islander,Gastroenterology,Admitted,null,19
+648-60-8938,08-05-2023,18:01:00,V. Bellingham,Female,79,White,None,Not Admitted,null,60
+363-55-0104,08-05-2023,01:41:00,X. Friar,Male,8,Declined to Identify,None,Not Admitted,6,36
+131-10-7789,08-05-2023,00:58:00,E. Meldrum,Male,41,Native American/Alaska Native,None,Not Admitted,1,36
+525-23-4635,08-05-2023,08:07:00,D. Goman,Male,16,Asian,None,Admitted,null,23
+302-92-2947,08-05-2023,02:11:00,D. Skatcher,Female,66,African American,Orthopedics,Admitted,null,31
+349-99-1289,08-05-2023,05:54:00,G. Fildes,Female,42,White,None,Not Admitted,null,31
+695-96-3968,08-05-2023,21:20:00,N. Jimson,Male,62,Two or More Races,General Practice,Not Admitted,null,54
+332-44-9371,08-05-2023,20:03:00,X. Cubbino,Male,18,African American,Orthopedics,Admitted,null,36
+648-75-4344,08-05-2023,12:56:00,B. Kealey,Female,46,Two or More Races,None,Not Admitted,null,50
+758-36-1812,08-05-2023,03:51:00,M. Buffy,Male,68,Native American/Alaska Native,None,Admitted,null,28
+419-18-4859,08-05-2023,18:28:00,V. Kubicka,Female,17,Two or More Races,None,Not Admitted,null,26
+478-48-2968,08-05-2023,03:17:00,M. Lycett,Female,74,White,General Practice,Admitted,null,52
+457-28-8255,08-05-2023,01:00:00,C. Burchess,Female,65,Pacific Islander,None,Not Admitted,null,31
+253-21-4540,08-05-2023,09:59:00,R. Kilduff,Female,1,African American,None,Admitted,null,43
+455-38-9962,08-05-2023,19:43:00,Q. Semkins,Female,1,White,General Practice,Admitted,2,30
+643-90-9335,08-05-2023,08:27:00,W. Sarton,Female,61,Two or More Races,Physiotherapy,Admitted,null,58
+849-38-9457,08-05-2023,05:14:00,D. Jiggens,Female,78,Two or More Races,None,Not Admitted,9,30
+790-04-1343,08-05-2023,02:53:00,B. Filipputti,Female,24,Two or More Races,None,Not Admitted,null,25
+823-23-8979,09-05-2023,16:20:00,W. Shank,Female,54,Native American/Alaska Native,General Practice,Not Admitted,null,43
+501-13-7396,09-05-2023,11:24:00,O. Warre,Female,75,White,None,Admitted,3,17
+714-72-1599,09-05-2023,00:19:00,R. Spennock,Male,3,Native American/Alaska Native,None,Admitted,null,47
+234-78-0305,09-05-2023,22:06:00,W. Sanja,Female,63,White,None,Admitted,null,54
+490-69-7016,09-05-2023,21:49:00,Z. Dalli,Female,72,Pacific Islander,None,Not Admitted,null,34
+563-25-3708,09-05-2023,05:34:00,T. Fransinelli,Female,50,Declined to Identify,None,Not Admitted,null,14
+105-90-4686,09-05-2023,03:26:00,I. Matheson,Male,5,Two or More Races,General Practice,Admitted,null,13
+888-26-6668,09-05-2023,15:50:00,X. Loreit,Male,67,Two or More Races,None,Not Admitted,5,48
+532-22-8608,09-05-2023,03:09:00,I. Girdlestone,Female,65,White,None,Admitted,null,57
+598-31-8151,09-05-2023,07:11:00,T. Gwilt,Male,55,White,None,Not Admitted,null,41
+857-03-3289,09-05-2023,12:32:00,X. Palfrey,Female,59,African American,Cardiology,Admitted,null,10
+639-66-6888,09-05-2023,14:55:00,A. Tweedle,Male,75,White,None,Not Admitted,2,55
+576-53-4816,09-05-2023,11:08:00,C. Warder,Female,7,Declined to Identify,Physiotherapy,Not Admitted,6,37
+176-29-2963,09-05-2023,02:49:00,D. Ernke,Female,8,Two or More Races,General Practice,Admitted,null,57
+884-44-0502,09-05-2023,02:43:00,Z. Kennelly,Male,38,African American,None,Admitted,null,44
+591-72-3831,09-05-2023,20:01:00,U. Haggus,Male,60,African American,None,Admitted,null,11
+556-89-6240,09-05-2023,19:16:00,B. Runham,Female,58,White,General Practice,Not Admitted,9,16
+781-69-2315,09-05-2023,13:06:00,P. Girodin,Male,19,African American,None,Admitted,null,48
+550-70-0152,09-05-2023,09:39:00,A. Kuscha,Male,76,Pacific Islander,General Practice,Not Admitted,null,34
+437-12-0284,09-05-2023,08:53:00,Y. Tandy,Male,53,Two or More Races,None,Admitted,null,31
+645-31-7078,10-05-2023,11:14:00,O. Dominique,Male,61,African American,General Practice,Not Admitted,null,59
+659-12-8843,10-05-2023,16:39:00,F. Redhouse,Female,48,White,General Practice,Admitted,6,12
+823-66-1885,10-05-2023,16:48:00,K. Rolfo,Female,39,White,General Practice,Not Admitted,3,23
+375-30-9722,10-05-2023,14:16:00,M. Duddin,Male,46,African American,Orthopedics,Not Admitted,null,10
+738-36-0484,10-05-2023,19:41:00,P. Wontner,Male,69,African American,None,Admitted,7,36
+692-55-1347,10-05-2023,04:02:00,G. Esslement,Male,15,Declined to Identify,General Practice,Admitted,null,30
+316-77-4231,10-05-2023,00:29:00,H. Callan,Male,58,Two or More Races,None,Admitted,null,51
+529-08-9822,10-05-2023,05:26:00,M. Meller,Female,67,White,None,Admitted,null,10
+854-16-1184,10-05-2023,05:22:00,O. Crocetti,Female,12,Declined to Identify,None,Not Admitted,null,39
+225-11-8653,10-05-2023,14:21:00,V. Whitebread,Female,55,African American,None,Not Admitted,null,17
+152-95-4374,10-05-2023,21:34:00,O. Parncutt,Male,39,Two or More Races,None,Admitted,null,36
+427-21-9330,10-05-2023,09:31:00,R. Peasgood,Female,71,Declined to Identify,None,Not Admitted,null,46
+238-94-8308,10-05-2023,17:39:00,F. Ricart,Male,40,African American,None,Not Admitted,null,30
+133-23-1511,11-05-2023,11:28:00,M. Crux,Male,25,African American,General Practice,Admitted,null,49
+122-16-6072,11-05-2023,02:27:00,V. Gurnay,Male,54,White,None,Not Admitted,null,60
+465-37-0015,11-05-2023,08:01:00,C. Rothery,Female,57,Declined to Identify,General Practice,Not Admitted,1,15
+208-89-0119,11-05-2023,03:28:00,R. Plane,Female,54,Asian,None,Not Admitted,null,50
+362-68-6096,11-05-2023,16:41:00,Q. Sola,Male,73,African American,None,Not Admitted,null,39
+662-75-3787,11-05-2023,03:45:00,R. Eates,Female,33,Asian,General Practice,Not Admitted,10,37
+116-34-3247,11-05-2023,14:13:00,A. Rainsbury,Male,10,Two or More Races,None,Admitted,null,50
+331-25-4113,11-05-2023,00:20:00,A. Ettridge,Male,28,Pacific Islander,None,Admitted,null,14
+691-01-5879,11-05-2023,19:05:00,Z. Lefley,Female,60,Two or More Races,General Practice,Not Admitted,null,26
+199-62-2068,11-05-2023,08:29:00,Z. Kubu,Male,43,Asian,None,Not Admitted,2,22
+621-38-3484,11-05-2023,07:36:00,D. Abbatt,Female,70,Two or More Races,General Practice,Admitted,null,12
+873-15-6021,11-05-2023,22:47:00,X. Yerson,Female,51,Pacific Islander,None,Admitted,2,20
+447-95-3661,11-05-2023,13:46:00,X. Upchurch,Male,25,Native American/Alaska Native,General Practice,Admitted,null,10
+745-61-1116,11-05-2023,05:44:00,C. Humpage,Female,75,White,General Practice,Not Admitted,null,47
+742-47-1941,11-05-2023,21:44:00,Q. Lundbech,Female,3,White,None,Admitted,null,30
+644-58-7967,11-05-2023,12:58:00,B. Ducroe,Female,27,White,Cardiology,Admitted,null,11
+754-26-1685,11-05-2023,18:00:00,A. Reckless,Female,45,Declined to Identify,None,Not Admitted,null,57
+229-16-0094,11-05-2023,19:02:00,E. Payle,Male,63,Two or More Races,Cardiology,Admitted,7,56
+839-41-1835,12-05-2023,10:43:00,K. Zumbusch,Female,7,White,None,Not Admitted,null,14
+516-34-6394,12-05-2023,11:32:00,F. Hylands,Female,28,White,None,Admitted,1,20
+608-62-4792,12-05-2023,23:17:00,G. David,Male,67,African American,General Practice,Admitted,null,49
+234-07-0725,12-05-2023,21:29:00,J. Mellmer,Female,36,African American,None,Admitted,null,31
+552-65-1035,12-05-2023,19:56:00,G. Bortolomei,Female,30,Two or More Races,Neurology,Not Admitted,null,45
+249-65-1599,12-05-2023,13:29:00,O. Laurenceau,Male,49,White,None,Admitted,2,55
+126-02-5429,12-05-2023,22:55:00,H. Tibbetts,Female,6,White,Gastroenterology,Admitted,null,51
+339-11-4345,12-05-2023,07:40:00,L. Crunkhurn,Female,50,White,None,Admitted,null,51
+447-43-8712,12-05-2023,00:13:00,U. Klejin,Female,32,White,None,Admitted,9,34
+510-69-5252,12-05-2023,16:52:00,Y. Mabon,Male,51,White,None,Admitted,null,33
+404-11-0410,12-05-2023,00:18:00,P. Baton,Male,78,Asian,Cardiology,Not Admitted,1,33
+275-12-2439,13-05-2023,04:54:00,N. Stimson,Male,1,African American,General Practice,Not Admitted,null,39
+535-83-6651,13-05-2023,14:01:00,G. Ariss,Male,59,African American,Cardiology,Not Admitted,null,54
+131-03-6212,13-05-2023,01:14:00,U. Banfield,Male,73,Two or More Races,None,Not Admitted,null,59
+375-27-5578,13-05-2023,02:14:00,D. Grimston,Male,45,White,None,Admitted,null,48
+198-02-0384,13-05-2023,20:12:00,I. Cline,Male,40,White,None,Admitted,null,48
+825-35-0948,13-05-2023,02:42:00,H. Plante,Male,18,Declined to Identify,Physiotherapy,Admitted,5,13
+754-36-2288,13-05-2023,04:43:00,T. Marchment,Male,30,White,Neurology,Admitted,4,60
+638-04-9364,13-05-2023,02:11:00,G. Maps,Female,14,Asian,Physiotherapy,Admitted,null,24
+145-46-1321,13-05-2023,08:12:00,Z. Fursland,Female,38,White,None,Admitted,9,17
+185-53-6571,13-05-2023,07:26:00,Q. McGuigan,Male,24,Two or More Races,None,Not Admitted,null,48
+581-09-2517,13-05-2023,15:26:00,B. McCaughan,Male,27,Asian,None,Admitted,null,55
+414-09-9485,13-05-2023,23:15:00,T. MacVagh,Female,75,Asian,None,Admitted,null,28
+471-32-5168,13-05-2023,10:33:00,X. Poile,Female,46,Declined to Identify,None,Admitted,null,27
+584-57-3044,14-05-2023,05:49:00,G. Chiplin,Male,35,African American,None,Not Admitted,null,17
+268-96-2123,14-05-2023,20:48:00,M. Bikker,Male,6,Declined to Identify,None,Admitted,null,58
+521-83-9058,14-05-2023,17:35:00,U. Ors,Male,32,African American,Orthopedics,Not Admitted,null,17
+400-43-2749,14-05-2023,16:01:00,R. Jagoe,Female,34,Asian,General Practice,Not Admitted,0,50
+383-96-0966,14-05-2023,02:21:00,Q. Archbutt,Male,19,White,Orthopedics,Admitted,null,34
+241-34-9948,14-05-2023,01:04:00,W. Tabor,Female,10,White,None,Admitted,null,51
+602-78-5992,14-05-2023,16:20:00,M. Pickford,Male,50,Asian,Orthopedics,Admitted,null,22
+374-87-4141,14-05-2023,15:44:00,O. Womack,Female,56,White,None,Admitted,null,34
+302-11-3266,14-05-2023,18:54:00,L. Toal,Female,24,White,General Practice,Not Admitted,null,30
+260-38-5070,14-05-2023,14:58:00,A. Hay,Male,14,Asian,None,Not Admitted,null,25
+191-59-7336,14-05-2023,04:41:00,Z. Donovin,Female,21,Two or More Races,None,Not Admitted,null,27
+281-64-1818,14-05-2023,18:45:00,V. Studman,Female,10,White,None,Admitted,4,44
+747-62-2379,14-05-2023,02:52:00,Z. Poltone,Male,1,Asian,None,Not Admitted,6,12
+404-25-9280,14-05-2023,17:23:00,B. Knowler,Female,31,Two or More Races,Renal,Not Admitted,null,27
+148-56-7389,15-05-2023,08:16:00,B. Coping,Male,75,Declined to Identify,None,Admitted,null,20
+481-55-5602,15-05-2023,04:11:00,V. Hassett,Male,53,Declined to Identify,General Practice,Not Admitted,null,39
+447-09-9471,15-05-2023,15:26:00,I. Tucker,Female,70,Two or More Races,None,Admitted,null,26
+352-81-8511,15-05-2023,09:41:00,Y. Heibl,Female,73,White,General Practice,Admitted,null,10
+123-01-6587,15-05-2023,21:49:00,B. Billingham,Female,59,White,None,Not Admitted,null,59
+520-29-9827,15-05-2023,19:11:00,E. Keepin,Male,21,White,None,Admitted,null,23
+655-60-5604,15-05-2023,04:55:00,X. Southway,Female,54,African American,General Practice,Not Admitted,null,46
+157-74-0353,16-05-2023,20:08:00,E. Formie,Male,31,Two or More Races,None,Not Admitted,null,23
+659-19-0626,16-05-2023,05:13:00,B. Deverose,Female,63,White,Renal,Not Admitted,7,49
+589-89-7404,16-05-2023,11:38:00,Y. Infantino,Male,78,Pacific Islander,Cardiology,Admitted,null,48
+120-38-6188,16-05-2023,00:01:00,Q. Downage,Female,37,Declined to Identify,Orthopedics,Admitted,null,23
+597-50-8124,16-05-2023,19:49:00,O. Border,Male,32,Native American/Alaska Native,Orthopedics,Admitted,6,10
+357-17-7158,16-05-2023,20:32:00,Y. Keys,Female,79,Declined to Identify,None,Admitted,1,45
+350-64-3851,16-05-2023,04:52:00,G. Earl,Female,56,Two or More Races,General Practice,Admitted,8,60
+337-44-5677,16-05-2023,23:37:00,M. Spellissy,Female,72,Declined to Identify,None,Admitted,null,31
+274-32-2971,16-05-2023,08:15:00,E. Belison,Male,74,White,None,Not Admitted,8,45
+341-50-7757,16-05-2023,07:52:00,T. Hartigan,Female,49,Two or More Races,None,Not Admitted,null,55
+171-05-8116,16-05-2023,13:14:00,L. Pietzker,Female,12,Native American/Alaska Native,None,Admitted,7,39
+426-66-7893,16-05-2023,20:44:00,U. Luckings,Female,33,African American,None,Not Admitted,8,28
+508-01-3723,16-05-2023,09:59:00,T. Baudasso,Male,42,Two or More Races,Physiotherapy,Admitted,null,35
+313-42-4447,16-05-2023,13:29:00,U. Kilduff,Female,60,Two or More Races,None,Admitted,null,20
+778-04-7220,16-05-2023,11:31:00,Y. Hutfield,Male,56,White,None,Admitted,10,12
+280-13-7317,16-05-2023,07:54:00,C. Woolveridge,Male,18,Declined to Identify,None,Admitted,3,11
+761-68-0469,16-05-2023,00:48:00,U. Davenhill,Male,51,Pacific Islander,General Practice,Admitted,null,31
+710-19-1756,16-05-2023,17:22:00,Q. Hallas,Male,36,African American,Orthopedics,Not Admitted,9,11
+200-22-2878,16-05-2023,05:28:00,X. Schwier,Female,57,White,None,Not Admitted,null,49
+317-66-7650,16-05-2023,07:38:00,Y. Pettyfer,Female,70,Asian,Physiotherapy,Not Admitted,null,11
+645-47-4599,16-05-2023,06:18:00,Y. Barras,Female,8,Pacific Islander,Orthopedics,Not Admitted,null,18
+490-07-8452,17-05-2023,07:02:00,F. Fawthrop,Male,1,Two or More Races,None,Not Admitted,10,48
+357-52-0985,17-05-2023,17:19:00,W. Trippett,Male,6,White,None,Not Admitted,8,29
+758-01-9953,17-05-2023,03:29:00,P. Delafont,Female,33,Native American/Alaska Native,None,Not Admitted,null,14
+129-48-0933,17-05-2023,10:15:00,I. Saiger,Male,21,African American,None,Not Admitted,9,15
+372-52-4048,17-05-2023,21:33:00,R. Eede,Male,66,Declined to Identify,None,Not Admitted,null,35
+373-60-4214,17-05-2023,04:15:00,W. Collister,Male,65,African American,Renal,Admitted,null,41
+707-25-6349,17-05-2023,00:37:00,Q. Corre,Male,40,White,General Practice,Not Admitted,null,49
+160-66-2221,17-05-2023,01:52:00,Z. Gritten,Female,14,African American,None,Admitted,null,31
+375-83-4770,17-05-2023,00:38:00,Y. Izakov,Female,47,Two or More Races,None,Not Admitted,null,25
+371-76-0692,17-05-2023,12:54:00,D. Osmint,Female,28,Two or More Races,None,Not Admitted,7,10
+811-45-8659,17-05-2023,09:42:00,Z. Fitkin,Female,32,Two or More Races,None,Not Admitted,null,18
+591-83-7831,17-05-2023,10:22:00,Q. Bentick,Female,62,Native American/Alaska Native,None,Not Admitted,8,21
+863-21-0169,17-05-2023,02:57:00,Q. Corstorphine,Female,39,White,General Practice,Not Admitted,10,19
+578-05-4342,17-05-2023,18:06:00,Z. Maber,Female,13,African American,None,Not Admitted,6,50
+333-35-9595,17-05-2023,21:20:00,C. Scola,Female,27,White,General Practice,Not Admitted,null,40
+488-19-5188,17-05-2023,16:11:00,Z. Roland,Female,1,White,None,Admitted,4,27
+761-31-9174,18-05-2023,02:39:00,H. Bennetts,Male,11,Asian,General Practice,Not Admitted,null,52
+304-28-9211,18-05-2023,18:49:00,B. Couldwell,Male,72,Two or More Races,None,Not Admitted,null,16
+795-97-9054,18-05-2023,02:24:00,O. O'Ferris,Male,26,White,None,Not Admitted,null,34
+729-22-1036,18-05-2023,04:06:00,R. Jozefczak,Male,23,Two or More Races,Cardiology,Not Admitted,8,16
+490-58-0794,18-05-2023,09:16:00,U. Adam,Male,50,African American,Orthopedics,Not Admitted,null,44
+835-05-2062,18-05-2023,05:59:00,P. Ragless,Female,64,Declined to Identify,None,Admitted,null,28
+599-72-6200,18-05-2023,10:19:00,U. Trickey,Male,73,Declined to Identify,None,Not Admitted,null,10
+115-20-5052,18-05-2023,07:27:00,I. Carff,Female,57,Asian,None,Not Admitted,null,29
+734-10-2558,18-05-2023,13:11:00,Y. Schubbert,Female,15,White,General Practice,Admitted,null,58
+866-27-9262,18-05-2023,17:11:00,T. Dureden,Male,37,Native American/Alaska Native,General Practice,Not Admitted,3,16
+537-28-9473,18-05-2023,23:05:00,Z. Losel,Male,33,White,Orthopedics,Admitted,null,48
+468-35-7714,18-05-2023,04:10:00,U. Harbertson,Male,41,Two or More Races,Orthopedics,Not Admitted,null,46
+213-46-3828,18-05-2023,15:35:00,X. Urlich,Male,6,Asian,Orthopedics,Not Admitted,null,11
+441-46-3541,18-05-2023,13:27:00,D. Beyn,Male,2,African American,None,Admitted,null,11
+133-97-5806,18-05-2023,03:28:00,P. Royall,Male,60,Two or More Races,None,Not Admitted,null,41
+489-27-7349,19-05-2023,02:44:00,T. Searl,Female,27,Pacific Islander,None,Not Admitted,null,25
+696-37-8120,19-05-2023,10:24:00,C. Mattheeuw,Female,74,Declined to Identify,None,Not Admitted,null,53
+522-83-0267,19-05-2023,01:57:00,M. Mainson,Male,21,African American,Physiotherapy,Not Admitted,null,17
+413-65-7874,19-05-2023,01:42:00,D. Dinzey,Female,28,White,None,Not Admitted,null,55
+546-86-5704,19-05-2023,17:34:00,F. Minshull,Male,51,African American,General Practice,Admitted,null,22
+140-58-6732,19-05-2023,11:26:00,M. Freake,Female,46,White,Physiotherapy,Not Admitted,null,45
+140-42-5675,19-05-2023,23:41:00,C. Gilbane,Female,75,Native American/Alaska Native,None,Admitted,null,56
+162-33-3355,19-05-2023,22:26:00,R. Nixon,Male,12,African American,General Practice,Admitted,3,36
+694-03-3604,19-05-2023,01:48:00,D. Stollsteimer,Male,13,Two or More Races,None,Admitted,null,33
+744-37-2731,19-05-2023,07:21:00,X. Cassels,Female,38,African American,General Practice,Not Admitted,null,30
+656-95-1748,19-05-2023,19:59:00,M. Surgison,Male,43,White,General Practice,Admitted,null,55
+163-65-7783,19-05-2023,05:01:00,E. Cordelette,Male,57,African American,None,Admitted,null,35
+424-57-9056,19-05-2023,07:37:00,Q. Onthank,Female,73,Pacific Islander,None,Not Admitted,null,58
+699-99-8759,19-05-2023,14:05:00,Y. Stebbing,Female,27,White,None,Admitted,null,31
+405-19-7318,19-05-2023,14:01:00,K. Jandl,Male,53,White,Cardiology,Not Admitted,6,35
+528-57-6645,20-05-2023,12:27:00,R. Luty,Female,44,Asian,None,Not Admitted,4,60
+858-56-1736,20-05-2023,19:51:00,K. Coull,Male,28,African American,None,Not Admitted,7,27
+451-23-7222,20-05-2023,05:14:00,S. Sare,Female,12,Two or More Races,None,Admitted,null,26
+278-84-3772,20-05-2023,06:10:00,Z. Todarini,Female,9,Two or More Races,None,Admitted,null,26
+367-46-0761,20-05-2023,09:43:00,O. Mardell,Male,64,Pacific Islander,General Practice,Admitted,null,16
+754-27-9761,20-05-2023,05:51:00,H. Theuff,Male,4,Declined to Identify,None,Admitted,null,12
+400-43-5549,20-05-2023,11:38:00,U. Boumphrey,Male,58,White,None,Not Admitted,null,31
+614-78-5353,20-05-2023,08:48:00,R. Juza,Female,46,Declined to Identify,None,Admitted,9,31
+334-60-2957,20-05-2023,05:07:00,X. Millichip,Female,56,Asian,Physiotherapy,Not Admitted,0,50
+711-46-8034,20-05-2023,13:03:00,H. Miner,Female,41,African American,Gastroenterology,Admitted,10,53
+479-60-6415,20-05-2023,20:18:00,L. Mcettrick,Female,65,White,None,Admitted,null,39
+469-06-1176,20-05-2023,10:45:00,N. Olerenshaw,Male,78,Two or More Races,None,Not Admitted,null,36
+127-86-2344,20-05-2023,08:57:00,P. Waryk,Female,42,Asian,None,Not Admitted,null,20
+524-72-4755,20-05-2023,12:55:00,R. Noni,Female,41,African American,None,Admitted,null,33
+385-78-1939,21-05-2023,22:17:00,S. Mulran,Female,33,Two or More Races,None,Admitted,null,60
+631-49-3222,21-05-2023,05:58:00,N. Stump,Female,13,Declined to Identify,General Practice,Admitted,null,27
+106-91-6612,21-05-2023,00:15:00,H. Riguard,Female,63,African American,Gastroenterology,Not Admitted,null,27
+795-63-6602,21-05-2023,06:13:00,Y. Willmore,Female,14,White,None,Not Admitted,null,55
+771-93-7381,21-05-2023,18:43:00,T. Beddow,Male,53,White,None,Admitted,null,36
+737-16-3422,21-05-2023,08:35:00,E. Fellos,Female,45,African American,General Practice,Admitted,10,23
+657-83-4406,21-05-2023,05:17:00,O. Innes,Male,31,Native American/Alaska Native,Neurology,Admitted,5,52
+146-69-4652,21-05-2023,06:02:00,I. Singyard,Female,34,White,None,Admitted,null,28
+719-06-1377,21-05-2023,01:04:00,B. Alfonsetto,Female,37,African American,Cardiology,Not Admitted,null,48
+389-84-7406,21-05-2023,01:46:00,M. Jacob,Male,33,Declined to Identify,Neurology,Admitted,null,56
+229-50-1494,21-05-2023,16:54:00,A. Ludlom,Male,47,Asian,None,Admitted,7,35
+372-46-2168,21-05-2023,15:58:00,B. Deane,Male,51,White,None,Admitted,1,39
+415-66-4951,21-05-2023,15:45:00,L. Zisneros,Female,67,White,None,Not Admitted,null,49
+527-55-3384,21-05-2023,17:49:00,H. Auton,Female,53,Declined to Identify,None,Admitted,null,21
+744-63-8705,21-05-2023,22:54:00,O. Whettleton,Female,13,White,Gastroenterology,Admitted,null,14
+722-84-3095,21-05-2023,20:20:00,F. Plank,Female,76,Two or More Races,Physiotherapy,Admitted,null,43
+571-81-9747,22-05-2023,04:40:00,S. Regorz,Female,65,Pacific Islander,None,Not Admitted,null,23
+222-74-5629,22-05-2023,09:04:00,H. Tran,Male,31,White,None,Not Admitted,null,42
+810-65-3273,22-05-2023,08:32:00,D. Philbrook,Male,79,White,Physiotherapy,Not Admitted,null,57
+306-08-1494,22-05-2023,09:41:00,C. MacInnes,Female,69,Two or More Races,None,Not Admitted,null,60
+769-03-0157,22-05-2023,09:56:00,F. Sisland,Female,50,White,General Practice,Not Admitted,null,60
+620-87-4388,22-05-2023,13:34:00,O. Killby,Male,79,African American,None,Not Admitted,null,18
+277-46-7550,22-05-2023,01:08:00,Y. Cleverly,Female,46,African American,Renal,Admitted,null,11
+435-27-7132,22-05-2023,00:55:00,Q. Gonthier,Male,61,White,General Practice,Not Admitted,null,30
+344-36-7156,22-05-2023,16:48:00,M. Mandell,Female,44,Asian,None,Not Admitted,2,51
+836-68-7524,22-05-2023,06:07:00,Y. Eisak,Female,4,Pacific Islander,None,Admitted,3,60
+651-85-9191,22-05-2023,20:44:00,W. Counihan,Male,50,Two or More Races,Orthopedics,Admitted,null,56
+436-34-8687,22-05-2023,15:25:00,U. Armytage,Female,22,Asian,Cardiology,Admitted,null,56
+580-60-8042,22-05-2023,11:44:00,H. Fairtlough,Male,14,African American,General Practice,Not Admitted,2,21
+110-12-8128,22-05-2023,09:49:00,D. Scoates,Male,79,Pacific Islander,None,Admitted,7,15
+229-63-8890,22-05-2023,13:54:00,P. Caddick,Female,30,White,None,Admitted,null,20
+871-78-2945,22-05-2023,05:40:00,F. Claworth,Male,56,White,None,Admitted,null,20
+374-86-5785,22-05-2023,23:09:00,L. MacKim,Male,42,White,Gastroenterology,Admitted,null,51
+217-68-5823,22-05-2023,23:11:00,D. Minto,Female,43,White,None,Not Admitted,null,30
+484-76-9868,22-05-2023,18:02:00,S. Casarino,Female,44,Pacific Islander,None,Not Admitted,1,27
+627-66-0665,22-05-2023,16:23:00,N. Sibbert,Male,56,White,None,Not Admitted,6,24
+352-97-4533,22-05-2023,18:06:00,X. Bedbury,Male,46,Two or More Races,Neurology,Not Admitted,1,20
+822-72-9742,23-05-2023,05:36:00,Q. Durdle,Female,61,Declined to Identify,General Practice,Not Admitted,null,21
+278-28-0801,23-05-2023,20:50:00,J. Tchaikovsky,Male,33,African American,None,Admitted,0,42
+270-31-5063,23-05-2023,04:39:00,G. Saltsberg,Female,61,Declined to Identify,General Practice,Not Admitted,10,59
+318-41-0573,23-05-2023,04:50:00,Q. Wadham,Female,56,Two or More Races,None,Admitted,null,23
+661-86-2616,23-05-2023,23:16:00,A. Langton,Male,12,White,None,Not Admitted,null,57
+630-69-5811,23-05-2023,21:13:00,I. Drewett,Male,25,Two or More Races,None,Not Admitted,4,24
+711-70-7397,23-05-2023,07:12:00,I. Plant,Male,74,African American,None,Not Admitted,null,53
+518-04-0690,23-05-2023,05:01:00,M. Tabourier,Male,25,White,None,Admitted,null,50
+164-29-5021,23-05-2023,15:55:00,S. Lilley,Female,73,White,None,Admitted,0,37
+798-24-0921,23-05-2023,02:18:00,O. Aveson,Female,37,Native American/Alaska Native,None,Admitted,null,21
+323-14-5080,23-05-2023,15:37:00,X. Idle,Female,8,White,General Practice,Not Admitted,7,14
+304-59-5501,23-05-2023,15:26:00,X. Idiens,Female,25,Two or More Races,None,Admitted,4,15
+402-78-2438,23-05-2023,11:46:00,G. Doubleday,Male,67,Two or More Races,None,Not Admitted,3,15
+646-76-4036,24-05-2023,00:40:00,Z. Northeast,Male,46,African American,None,Not Admitted,null,44
+442-31-5916,24-05-2023,17:06:00,T. Oatley,Female,39,African American,None,Not Admitted,7,37
+138-44-2456,24-05-2023,13:07:00,X. Dallywater,Male,32,Declined to Identify,None,Not Admitted,null,56
+624-42-2108,24-05-2023,15:57:00,R. Cops,Female,44,Pacific Islander,General Practice,Admitted,null,55
+578-99-8746,24-05-2023,18:31:00,K. Bartalin,Female,28,Two or More Races,None,Not Admitted,6,54
+443-42-3313,24-05-2023,07:25:00,X. Peron,Female,77,Declined to Identify,None,Not Admitted,null,20
+720-54-2625,24-05-2023,14:42:00,C. Pavie,Female,4,Native American/Alaska Native,None,Admitted,null,23
+393-79-0957,24-05-2023,04:18:00,R. Casellas,Male,67,White,None,Not Admitted,null,45
+781-54-2029,24-05-2023,20:59:00,F. Currell,Male,9,Asian,None,Admitted,null,21
+776-96-5871,24-05-2023,01:50:00,C. Giffen,Female,72,Two or More Races,None,Not Admitted,null,36
+623-43-0277,24-05-2023,23:17:00,H. Gilford,Female,28,African American,Physiotherapy,Admitted,null,40
+462-88-3724,25-05-2023,20:48:00,N. Cottam,Female,27,African American,None,Not Admitted,null,52
+814-54-6052,25-05-2023,21:46:00,Q. Geffinger,Male,63,Native American/Alaska Native,None,Admitted,8,30
+887-08-0888,25-05-2023,14:24:00,G. Brech,Male,74,Two or More Races,None,Not Admitted,null,45
+599-42-0177,25-05-2023,09:29:00,R. Summerfield,Female,1,African American,None,Not Admitted,null,35
+740-20-2785,25-05-2023,18:01:00,V. Biddulph,Female,34,Declined to Identify,None,Not Admitted,null,39
+467-10-8749,25-05-2023,16:28:00,H. Cubbin,Male,47,African American,None,Not Admitted,null,19
+889-12-3929,25-05-2023,04:03:00,G. Ragate,Female,8,African American,General Practice,Admitted,null,35
+861-54-8231,25-05-2023,05:24:00,B. Tesh,Male,6,Two or More Races,General Practice,Admitted,null,49
+474-27-6059,25-05-2023,07:23:00,U. Veazey,Male,6,Asian,None,Not Admitted,4,26
+759-14-6508,25-05-2023,01:04:00,K. Alabone,Male,37,White,None,Admitted,null,46
+560-24-6602,25-05-2023,18:53:00,W. Rozycki,Female,76,White,None,Admitted,null,28
+133-48-6468,25-05-2023,19:16:00,D. Bohlmann,Female,32,Declined to Identify,None,Admitted,0,30
+632-73-1326,25-05-2023,12:17:00,W. Coltman,Female,52,Asian,General Practice,Admitted,null,26
+277-58-9258,25-05-2023,07:16:00,K. Slowly,Male,39,Two or More Races,None,Not Admitted,null,29
+398-17-8931,25-05-2023,09:45:00,F. Gregh,Male,71,White,None,Admitted,null,41
+879-91-8996,25-05-2023,01:50:00,N. Tithacott,Male,23,Asian,None,Admitted,null,51
+828-59-6248,26-05-2023,00:32:00,O. Grut,Female,53,Asian,None,Not Admitted,null,36
+546-70-9687,26-05-2023,09:27:00,L. Westnedge,Male,50,Two or More Races,None,Not Admitted,null,52
+190-99-7486,26-05-2023,09:55:00,I. Follitt,Female,78,White,None,Admitted,null,22
+848-12-7424,26-05-2023,23:23:00,C. Crannach,Male,11,White,General Practice,Not Admitted,10,23
+644-78-8816,26-05-2023,05:42:00,K. Daborne,Male,36,African American,None,Not Admitted,null,24
+206-49-3654,26-05-2023,01:34:00,Z. Ingarfill,Male,16,Two or More Races,None,Admitted,null,55
+542-26-9769,26-05-2023,11:06:00,X. Twelvetree,Male,22,African American,None,Not Admitted,null,31
+645-75-6454,26-05-2023,22:54:00,C. Mouser,Female,60,Asian,None,Admitted,9,24
+568-90-8670,26-05-2023,09:14:00,K. Nosworthy,Male,11,African American,None,Admitted,null,41
+285-30-3138,26-05-2023,17:42:00,N. McKeney,Male,32,Two or More Races,General Practice,Not Admitted,3,17
+495-06-8156,26-05-2023,19:02:00,C. Findlay,Female,55,White,General Practice,Admitted,null,38
+530-19-6308,27-05-2023,11:08:00,Y. Clausen-Thue,Male,24,White,General Practice,Not Admitted,null,27
+133-40-1294,27-05-2023,13:54:00,Z. Marlor,Male,53,Declined to Identify,None,Not Admitted,null,31
+640-24-2305,27-05-2023,12:56:00,G. Frodsham,Female,37,Pacific Islander,None,Not Admitted,null,12
+265-96-0268,27-05-2023,08:01:00,L. Lopes,Male,10,African American,None,Admitted,6,57
+812-85-8608,27-05-2023,01:39:00,H. McKeurton,Male,53,Asian,Orthopedics,Not Admitted,0,50
+308-46-7089,27-05-2023,12:08:00,D. Lages,Male,71,Declined to Identify,None,Not Admitted,null,19
+589-42-6404,27-05-2023,00:40:00,C. Kilmary,Female,42,Native American/Alaska Native,None,Not Admitted,null,44
+402-93-4014,27-05-2023,06:41:00,H. Shuttell,Male,38,Pacific Islander,Gastroenterology,Not Admitted,10,49
+553-27-8559,27-05-2023,06:13:00,Q. Garnsworthy,Female,8,African American,General Practice,Not Admitted,null,59
+676-03-2440,27-05-2023,20:26:00,B. Tarn,Female,13,Asian,None,Not Admitted,null,11
+825-28-4860,27-05-2023,03:51:00,T. Darnborough,Male,29,White,None,Admitted,null,36
+272-79-7769,27-05-2023,15:23:00,U. Blow,Male,48,White,None,Admitted,null,11
+547-56-8712,27-05-2023,20:44:00,V. Fisby,Female,4,Asian,None,Admitted,null,29
+855-81-5760,27-05-2023,00:10:00,B. Maclean,Female,40,African American,General Practice,Not Admitted,null,25
+587-40-6537,28-05-2023,13:19:00,E. Lettuce,Female,77,White,General Practice,Not Admitted,0,52
+468-10-3284,28-05-2023,10:18:00,P. Trainor,Female,57,White,Physiotherapy,Not Admitted,null,19
+338-32-5533,28-05-2023,02:00:00,N. Kiefer,Male,48,White,None,Not Admitted,7,51
+334-96-4072,28-05-2023,07:00:00,S. Forseith,Male,63,White,Physiotherapy,Not Admitted,4,50
+316-95-8309,28-05-2023,17:46:00,O. Ambrosini,Male,79,African American,None,Not Admitted,8,55
+230-36-3922,28-05-2023,08:13:00,X. Pepi,Female,70,Two or More Races,None,Not Admitted,null,39
+196-08-4706,28-05-2023,16:12:00,M. Wroughton,Male,42,White,None,Admitted,null,54
+819-83-4431,28-05-2023,22:50:00,K. Farrear,Female,16,African American,Orthopedics,Not Admitted,null,17
+443-01-9231,28-05-2023,05:26:00,U. Suggey,Female,17,White,None,Admitted,null,20
+507-62-7126,28-05-2023,12:37:00,H. Beedle,Male,15,White,None,Not Admitted,null,11
+859-91-0113,29-05-2023,05:14:00,U. Vyel,Male,31,Asian,None,Not Admitted,null,10
+530-98-5548,29-05-2023,17:41:00,J. Melmeth,Female,64,Declined to Identify,General Practice,Not Admitted,null,42
+872-17-6505,29-05-2023,07:54:00,D. Austick,Female,59,White,None,Not Admitted,null,14
+723-90-6209,29-05-2023,10:28:00,O. Domney,Male,28,Native American/Alaska Native,None,Admitted,null,47
+858-02-6228,29-05-2023,09:59:00,F. Tomik,Male,22,African American,General Practice,Admitted,null,22
+683-01-7970,29-05-2023,00:06:00,S. Tethcote,Female,3,White,None,Not Admitted,null,45
+257-26-2912,29-05-2023,12:13:00,C. Pettwood,Female,47,Two or More Races,None,Admitted,null,19
+689-39-0776,29-05-2023,15:49:00,B. Housbey,Female,62,Declined to Identify,General Practice,Admitted,null,17
+136-91-3908,29-05-2023,05:34:00,O. D'Ambrogio,Male,13,Declined to Identify,Renal,Not Admitted,null,42
+740-90-4506,29-05-2023,06:28:00,V. Geldert,Female,2,White,None,Admitted,null,48
+774-50-2972,29-05-2023,23:58:00,O. Nyles,Male,45,White,None,Admitted,null,39
+376-35-2661,29-05-2023,19:41:00,Y. Goodhew,Female,67,Declined to Identify,None,Not Admitted,7,16
+811-13-0849,29-05-2023,08:00:00,J. Hover,Male,1,White,General Practice,Not Admitted,null,25
+681-74-6023,29-05-2023,17:54:00,Q. Thorius,Female,72,Two or More Races,General Practice,Not Admitted,5,55
+524-70-3535,29-05-2023,00:21:00,U. Keast,Female,77,Two or More Races,None,Admitted,0,52
+411-40-4241,30-05-2023,10:22:00,H. Longland,Female,62,Asian,General Practice,Admitted,null,49
+880-24-0836,30-05-2023,02:40:00,P. Wais,Female,19,White,Physiotherapy,Not Admitted,null,26
+315-73-8679,30-05-2023,17:02:00,S. Duinkerk,Female,36,African American,None,Not Admitted,1,14
+685-54-9380,30-05-2023,03:24:00,I. Turmel,Female,45,Declined to Identify,None,Admitted,null,52
+679-04-2649,30-05-2023,04:08:00,L. Witherow,Female,47,African American,Orthopedics,Not Admitted,7,37
+711-63-4110,30-05-2023,07:37:00,M. Wetheril,Male,47,Declined to Identify,Cardiology,Not Admitted,null,23
+177-26-6957,30-05-2023,20:56:00,G. Hanfrey,Female,45,Two or More Races,General Practice,Admitted,null,34
+601-16-0575,30-05-2023,15:01:00,N. Abramof,Male,77,African American,None,Not Admitted,null,21
+899-48-1776,30-05-2023,18:23:00,Y. Klemt,Female,23,African American,General Practice,Admitted,null,31
+370-75-6636,30-05-2023,08:21:00,O. Blissitt,Female,4,White,None,Not Admitted,null,32
+197-31-7419,30-05-2023,13:54:00,I. Zecchinelli,Female,39,African American,None,Admitted,3,53
+164-75-9897,30-05-2023,19:35:00,M. McEwan,Female,21,Two or More Races,General Practice,Admitted,null,53
+427-96-4240,30-05-2023,03:10:00,B. Utting,Female,36,White,None,Not Admitted,null,10
+787-63-5091,30-05-2023,05:50:00,U. Haccleton,Male,2,African American,None,Not Admitted,null,28
+241-88-5414,30-05-2023,06:57:00,D. Keeton,Female,20,Native American/Alaska Native,General Practice,Not Admitted,null,16
+263-91-2295,30-05-2023,23:56:00,U. Millions,Female,14,Two or More Races,None,Not Admitted,null,38
+567-43-8959,30-05-2023,08:38:00,M. Barrington,Female,18,Native American/Alaska Native,General Practice,Not Admitted,null,48
+155-92-4223,30-05-2023,20:05:00,I. Sheppey,Male,1,White,Orthopedics,Admitted,null,14
+469-17-6711,30-05-2023,05:46:00,Y. Spurr,Male,33,Two or More Races,None,Not Admitted,null,51
+745-02-2194,30-05-2023,11:48:00,Q. MacSkeagan,Female,39,African American,None,Admitted,null,17
+126-82-7615,30-05-2023,09:04:00,G. Viggers,Male,50,Two or More Races,None,Not Admitted,null,30
+248-18-0030,30-05-2023,08:59:00,G. Savill,Female,7,White,None,Not Admitted,null,54
+355-74-4996,30-05-2023,19:23:00,N. Copcutt,Male,4,Declined to Identify,None,Not Admitted,null,22
+628-24-0324,30-05-2023,16:27:00,Z. Codner,Female,10,Asian,None,Not Admitted,5,24
+791-17-1830,31-05-2023,17:02:00,R. Klewer,Female,79,White,None,Admitted,null,42
+592-26-8178,31-05-2023,07:44:00,S. Liveing,Female,45,African American,None,Admitted,null,53
+848-67-2081,31-05-2023,14:47:00,X. Dikles,Male,9,White,None,Not Admitted,null,12
+461-43-8162,31-05-2023,19:53:00,X. Beetlestone,Female,3,Asian,None,Not Admitted,7,53
+555-22-1922,31-05-2023,07:33:00,J. Layne,Male,4,Two or More Races,Orthopedics,Admitted,null,19
+791-06-9701,31-05-2023,02:51:00,Z. Lunney,Female,73,White,None,Not Admitted,8,34
+289-58-7260,31-05-2023,01:26:00,I. Windas,Female,31,Two or More Races,None,Admitted,null,23
+301-70-6477,31-05-2023,07:03:00,A. Spitaro,Female,9,Two or More Races,General Practice,Admitted,null,59
+885-03-5752,31-05-2023,15:54:00,W. Boast,Male,36,White,None,Admitted,null,13
+835-43-3416,31-05-2023,17:24:00,G. MacClancey,Male,74,Native American/Alaska Native,General Practice,Not Admitted,10,60
+500-96-0933,31-05-2023,00:27:00,I. Sinnie,Male,10,White,None,Not Admitted,null,28
+456-57-3018,01-06-2023,02:37:00,B. Tousy,Female,26,White,None,Admitted,null,56
+215-96-3099,01-06-2023,14:17:00,S. Millan,Female,70,African American,None,Not Admitted,1,37
+352-70-3795,01-06-2023,22:24:00,L. Ord,Female,27,White,General Practice,Not Admitted,null,46
+404-31-3488,01-06-2023,13:23:00,A. Scallon,Male,67,Pacific Islander,None,Not Admitted,null,39
+455-80-8231,01-06-2023,10:09:00,N. Rzehorz,Male,8,Declined to Identify,None,Not Admitted,null,54
+703-55-3364,01-06-2023,07:48:00,H. Hickeringill,Male,30,Pacific Islander,None,Admitted,null,19
+893-28-5273,01-06-2023,23:31:00,F. Metcalf,Female,23,White,Neurology,Not Admitted,2,42
+875-18-8746,01-06-2023,10:55:00,A. Renzini,Female,63,Declined to Identify,General Practice,Admitted,null,41
+381-42-5162,01-06-2023,09:34:00,Q. Wones,Male,3,Two or More Races,None,Not Admitted,null,43
+146-74-0413,01-06-2023,11:36:00,N. Weddeburn,Male,40,Native American/Alaska Native,General Practice,Admitted,null,41
+576-57-4936,01-06-2023,09:24:00,Q. Headingham,Female,23,Two or More Races,Cardiology,Admitted,null,23
+478-89-5652,01-06-2023,00:57:00,G. Delph,Male,7,Native American/Alaska Native,None,Admitted,null,30
+809-10-0879,01-06-2023,19:46:00,J. Duffy,Female,60,African American,Orthopedics,Not Admitted,null,58
+295-99-2730,01-06-2023,08:42:00,M. Ingolotti,Male,66,White,General Practice,Admitted,null,31
+193-70-0168,01-06-2023,17:52:00,F. Lenox,Male,54,Declined to Identify,None,Not Admitted,null,11
+350-23-6043,01-06-2023,21:12:00,Y. Truss,Male,18,Two or More Races,None,Not Admitted,null,39
+353-90-2932,01-06-2023,04:32:00,P. Sangwin,Female,19,Declined to Identify,None,Admitted,3,10
+807-20-6718,01-06-2023,15:43:00,Q. Seleway,Male,56,Declined to Identify,None,Not Admitted,8,17
+896-58-5072,01-06-2023,17:33:00,T. Neenan,Male,73,Asian,None,Admitted,null,18
+360-87-9898,01-06-2023,13:24:00,Q. Rycraft,Male,67,African American,General Practice,Admitted,null,17
+735-55-8837,01-06-2023,03:12:00,C. Polet,Male,36,White,None,Not Admitted,null,37
+838-74-6166,01-06-2023,00:54:00,X. Briance,Male,39,African American,None,Admitted,null,12
+784-87-8463,01-06-2023,21:20:00,O. Knight,Male,4,African American,Physiotherapy,Admitted,null,32
+174-46-8097,01-06-2023,11:24:00,Q. Dickie,Female,65,Pacific Islander,Gastroenterology,Not Admitted,10,53
+312-76-3868,01-06-2023,18:31:00,Z. O'Doherty,Female,79,White,General Practice,Not Admitted,null,44
+140-47-4325,01-06-2023,17:36:00,O. Sewell,Male,23,Declined to Identify,None,Not Admitted,null,57
+287-54-9000,02-06-2023,01:53:00,J. Stonman,Female,61,Two or More Races,None,Admitted,null,48
+590-11-7748,02-06-2023,00:33:00,F. Mathwen,Male,71,African American,None,Admitted,null,44
+853-23-2745,02-06-2023,16:08:00,A. Riding,Female,47,Declined to Identify,None,Not Admitted,null,23
+402-55-9647,02-06-2023,02:05:00,T. Salkeld,Male,42,African American,None,Admitted,null,15
+238-26-0586,02-06-2023,11:54:00,B. Caris,Female,55,Two or More Races,None,Admitted,2,30
+800-09-1545,02-06-2023,08:16:00,R. Jellett,Male,68,Asian,None,Admitted,null,46
+446-34-2838,02-06-2023,16:07:00,G. Uttley,Male,71,White,None,Not Admitted,2,42
+863-02-6812,02-06-2023,06:17:00,X. Housego,Male,70,African American,General Practice,Not Admitted,null,25
+413-75-7208,02-06-2023,20:09:00,N. Dumelow,Male,21,White,General Practice,Not Admitted,null,36
+212-19-0545,02-06-2023,03:42:00,N. Barmadier,Female,41,African American,Orthopedics,Admitted,null,12
+211-79-3733,02-06-2023,07:23:00,J. Keatch,Male,38,White,None,Admitted,null,47
+293-46-1362,02-06-2023,00:24:00,L. Woodrooffe,Female,16,White,None,Not Admitted,null,32
+135-28-3714,02-06-2023,08:07:00,A. Mulheron,Male,15,White,None,Not Admitted,7,53
+231-20-7799,02-06-2023,07:44:00,V. Puddifer,Female,46,White,Physiotherapy,Not Admitted,5,50
+818-69-8637,02-06-2023,11:32:00,H. Broscombe,Male,56,African American,None,Not Admitted,6,23
