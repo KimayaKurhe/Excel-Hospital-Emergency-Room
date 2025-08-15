@@ -10,3 +10,9 @@ This interactive Power BI dashboard provides a comprehensive monthly overview of
 
   DASHBOARD
   ![Dashboard](images/H-E-R_Dashboard.png)
+
+  ![Page1](images/Page1.png)
+
+  ![Page1](images/Page2.png)  
+
+  ![Page1](images/Page3.png)  
